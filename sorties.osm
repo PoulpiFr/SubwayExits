@@ -1,6 +1,143 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
   <bounds minlat='48.531' minlon='1.851' maxlat='49.178' maxlon='2.911' origin='http://www.openstreetmap.org/api/0.6' />
+  <node id='-1584' action='modify' visible='true' lat='48.870626908543805' lon='2.360966092445467'>
+    <tag k='name' v='r. de Lancry' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='JACQUES-BONSERGENT' />
+  </node>
+  <node id='-1331' action='modify' visible='true' lat='48.881239544377394' lon='2.357893316338327'>
+    <tag k='name' v='Gare Routière' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DU NORD' />
+  </node>
+  <node id='-46' action='modify' visible='true' lat='48.88376331406797' lon='2.34983508282755'>
+    <tag k='name' v='bd de la Chapelle' />
+    <tag k='num' v='4' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='BARBES-ROCHECHOUART' />
+  </node>
+  <node id='-44' action='modify' visible='true' lat='48.879604501738356' lon='2.3267997509791445'>
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='LIEGE' />
+  </node>
+  <node id='-42' action='modify' visible='true' lat='48.76287578394297' lon='2.304530314371683'>
+    <tag k='lieu' v='Parc de Sceaux' />
+    <tag k='name' v='route de Versailles \n Sous-Préfecture d&apos;Antony' />
+    <tag k='num' v='-1' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='LA CROIX-DE-BERNY' />
+  </node>
+  <node id='-40' action='modify' visible='true' lat='48.762186433152934' lon='2.3047245284322613'>
+    <tag k='name' v='r. Velpeau' />
+    <tag k='num' v='-1' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='LA CROIX-DE-BERNY' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='48.85176395635704' lon='2.341914774898126'>
+    <tag k='name' v='r. Danton' />
+    <tag k='num' v='3' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='ODEON' />
+  </node>
+  <node id='-36' action='modify' visible='true' lat='48.850666711149096' lon='2.3301803500245337'>
+    <tag k='name' v='r. de Coëtlogon' />
+    <tag k='num' v='3' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-SULPICE' />
+  </node>
+  <node id='-34' action='modify' visible='true' lat='48.85800133879819' lon='2.310272274549699'>
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='LA TOUR-MAUBOURG' />
+  </node>
+  <node id='-32' action='modify' visible='true' lat='48.86030568577109' lon='2.321224490135369'>
+    <tag k='name' v='r. de l&apos;Université' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='ASSEMBLEE NATIONALE' />
+  </node>
+  <node id='-30' action='modify' visible='true' lat='48.858722201316134' lon='2.3231113487118935'>
+    <tag k='lieu' v='Musée d&apos;Orsay' />
+    <tag k='name' v='r. de Bellechasse' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SOLFERINO' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='48.855125980867754' lon='2.306628726542542'>
+    <tag k='name' v='av. de La Motte-Picquet' />
+    <tag k='num' v='3' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='ECOLE MILITAIRE' />
+  </node>
+  <node id='-26' action='modify' visible='true' lat='48.87606130102954' lon='2.324823124454008'>
+    <tag k='name' v='Galerie des Marchands' />
+    <tag k='num' v='4' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-LAZARE' />
+  </node>
+  <node id='-24' action='modify' visible='true' lat='48.87616731304957' lon='2.3258686141046687'>
+    <tag k='name' v='rue Intérieure' />
+    <tag k='num' v='5' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-LAZARE' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='48.87616731304956' lon='2.326724702743872'>
+    <tag k='name' v='cour du Havre' />
+    <tag k='num' v='9' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-LAZARE' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='48.86594606314074' lon='2.324942188710401'>
+    <tag k='name' v='rue Cambon' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CONCORDE' />
+  </node>
+  <node id='-18' action='modify' visible='true' lat='48.87344924527775' lon='2.292530958460651'>
+    <tag k='name' v='av. Foch \n Parc auto' />
+    <tag k='num' v='8' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='48.87523925229111' lon='2.2962796237179948'>
+    <tag k='name' v='r. Beaujon' />
+    <tag k='num' v='9' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='48.87276576912942' lon='2.3351585406135134'>
+    <tag k='name' v='r. Taitbout' />
+    <tag k='num' v='6' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHAUSSEE D&apos;ANTIN (LA FAYETTE)' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='48.87050927599618' lon='2.3323582732924364'>
+    <tag k='name' v='r. de la Paix' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='OPERA' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='48.86928182195208' lon='2.3327237942844556'>
+    <tag k='name' v='av. de l&apos;Opéra' />
+    <tag k='num' v='4' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='OPERA' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='48.8722226490909' lon='2.3378840844045103'>
+    <tag k='name' v='boulevard Haussmann' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='RICHELIEU-DROUOT' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='48.871843873120284' lon='2.338559714114094'>
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='RICHELIEU-DROUOT' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='48.873279764616065' lon='2.3300308238893592'>
+    <tag k='lieu' v='Grands Magasins' />
+    <tag k='name' v='bd Haussmann' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='AUBER' />
+  </node>
   <node id='125246669' timestamp='2010-03-31T14:47:10Z' uid='150619' user='Mawie' visible='true' version='5' changeset='4285914' lat='48.8245512' lon='2.2731717'>
     <tag k='railway' v='subway_entrance' />
   </node>
@@ -95,13 +232,18 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='ref' v='2' />
   </node>
-  <node id='257082357' timestamp='2012-06-13T02:05:20Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='11877991' lat='48.8468024' lon='2.3269143'>
-    <tag k='name' v='Saint-Placide' />
+  <node id='257082357' action='modify' timestamp='2012-06-13T02:05:20Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='11877991' lat='48.8468024' lon='2.3269143'>
+    <tag k='name' v='r. Notre-Dame des Champs' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-PLACIDE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='257510350' timestamp='2012-06-22T23:29:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11983480' lat='48.8513902' lon='2.3266138'>
+  <node id='257510350' action='modify' timestamp='2012-06-22T23:29:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11983480' lat='48.8513902' lon='2.3266138'>
+    <tag k='name' v='bd Raspail' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SEVRES-BABYLONE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='257512478' timestamp='2011-10-19T01:11:07Z' uid='290680' user='wheelmap_visitor' visible='true' version='7' changeset='9596105' lat='48.8513952' lon='2.343525'>
@@ -160,7 +302,7 @@
     <tag k='ref' v='5' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
   </node>
-  <node id='260079074' timestamp='2012-06-22T23:25:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11983480' lat='48.8521206' lon='2.3393725'>
+  <node id='260079074' action='delete' timestamp='2012-06-22T23:25:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11983480' lat='48.8521206' lon='2.3393725'>
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
@@ -204,21 +346,24 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='264246721' timestamp='2012-06-22T23:28:34Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11983480' lat='48.8514477' lon='2.3311644'>
+  <node id='264246721' action='delete' timestamp='2012-06-22T23:28:34Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11983480' lat='48.8514477' lon='2.3311644'>
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='264246761' timestamp='2012-06-22T23:28:34Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11983480' lat='48.8516549' lon='2.3313089'>
-    <tag k='name' v='Saint-Sulpice' />
+  <node id='264246761' action='modify' timestamp='2012-06-22T23:28:34Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11983480' lat='48.8516549' lon='2.3313089'>
+    <tag k='name' v='r. du Four' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-SULPICE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='264258026' timestamp='2011-10-19T01:08:02Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='9596105' lat='48.8461783' lon='2.3663062'>
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='264775551' timestamp='2011-05-12T18:37:24Z' uid='17286' user='Pieren' visible='true' version='13' changeset='8125016' lat='48.8789301' lon='2.362044'>
+  <node id='264775551' action='modify' timestamp='2011-05-12T18:37:24Z' uid='17286' user='Pieren' visible='true' version='13' changeset='8125016' lat='48.8789301' lon='2.362044'>
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHATEAU LANDON' />
   </node>
   <node id='267157564' timestamp='2012-10-20T01:29:13Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='13563119' lat='48.84062' lon='2.3515132'>
     <tag k='name' v='Censier Daubenton' />
@@ -297,22 +442,26 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='291530689' timestamp='2013-09-22T11:08:32Z' uid='1424448' user='Singing-Poppy' visible='true' version='4' changeset='17971639' lat='48.853826' lon='2.3338993'>
-    <tag k='name' v='Saint-Germain-des-Prés - sortie 1 Église Saint-Germain-des-Prés' />
+  <node id='291530689' action='modify' timestamp='2013-09-22T11:08:32Z' uid='1424448' user='Singing-Poppy' visible='true' version='4' changeset='17971639' lat='48.853826' lon='2.3338993'>
+    <tag k='lieu' v='Écoles des Beaux Arts' />
+    <tag k='name' v='Église Saint-Germain-des-Prés' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='1' />
+    <tag k='station' v='SAINT-GERMAIN DES PRES' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='291530692' timestamp='2013-09-22T11:08:32Z' uid='1424448' user='Singing-Poppy' visible='true' version='5' changeset='17971639' lat='48.8535974' lon='2.333764'>
-    <tag k='name' v='Saint-Germain-des-Prés - sortie 2 rue de Rennes' />
+  <node id='291530692' action='modify' timestamp='2013-09-22T11:08:32Z' uid='1424448' user='Singing-Poppy' visible='true' version='5' changeset='17971639' lat='48.8535974' lon='2.333764'>
+    <tag k='name' v='r. de Rennes' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='2' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='SAINT-GERMAIN DES PRES' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='299013756' timestamp='2011-10-18T17:26:55Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='9587957' lat='48.8747096' lon='2.2954042'>
-    <tag k='name' v='Charles de Gaulle - Étoile' />
+  <node id='299013756' action='modify' timestamp='2011-10-18T17:26:55Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='9587957' lat='48.8747096' lon='2.2954042'>
+    <tag k='name' v='av. de Wagram' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='299013857' timestamp='2011-10-18T18:36:34Z' uid='290680' user='wheelmap_visitor' visible='true' version='7' changeset='9587957' lat='48.8742645' lon='2.2940433'>
@@ -397,14 +546,19 @@
   <node id='325128077' timestamp='2011-03-30T22:24:08Z' uid='158826' user='cquest' visible='true' version='10' changeset='7721268' lat='48.7895113' lon='2.4502896'>
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='329991162' timestamp='2010-08-26T13:55:26Z' uid='332493' user='bazgal' visible='true' version='2' changeset='5599379' lat='48.879884' lon='2.3583043'>
+  <node id='329991162' action='modify' timestamp='2010-08-26T13:55:26Z' uid='332493' user='bazgal' visible='true' version='2' changeset='5599379' lat='48.879884' lon='2.3583043'>
+    <tag k='name' v='SNCF' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DU NORD' />
   </node>
-  <node id='329991820' timestamp='2012-11-14T15:50:35Z' uid='158826' user='cquest' visible='true' version='11' changeset='13872888' lat='48.8797382' lon='2.3548626'>
+  <node id='329991820' action='modify' timestamp='2012-11-14T15:50:35Z' uid='158826' user='cquest' visible='true' version='11' changeset='13872888' lat='48.8797382' lon='2.3548626'>
+    <tag k='name' v='r. de Dunkerque' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DU NORD' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='329992034' timestamp='2012-01-03T23:11:14Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='10279313' lat='48.8801806' lon='2.3555158'>
+  <node id='329992034' action='delete' timestamp='2012-01-03T23:11:14Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='10279313' lat='48.8801806' lon='2.3555158'>
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
@@ -602,14 +756,20 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='492871757' timestamp='2012-05-01T21:07:10Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11466754' lat='48.8838119' lon='2.3511273'>
+  <node id='492871757' action='modify' timestamp='2012-05-01T21:07:10Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11466754' lat='48.883859608549166' lon='2.3511318344275813'>
     <tag k='layer' v='1' />
+    <tag k='name' v='r. Guy Patin' />
+    <tag k='num' v='5' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='BARBES-ROCHECHOUART' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='492871764' timestamp='2012-05-01T21:07:10Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='11466754' lat='48.8837405' lon='2.3498104'>
+  <node id='492871764' action='modify' timestamp='2012-05-01T21:07:10Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='11466754' lat='48.88375839073679' lon='2.3496925048828916'>
     <tag k='layer' v='1' />
+    <tag k='name' v='bd Barbès' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='BARBES-ROCHECHOUART' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='493340479' timestamp='2012-06-13T00:22:40Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8385473' lon='2.3605831'>
@@ -657,9 +817,11 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009' />
   </node>
-  <node id='507051806' timestamp='2012-06-13T02:05:23Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11877991' lat='48.8472183' lon='2.32695'>
-    <tag k='name' v='Saint-Placide' />
+  <node id='507051806' action='modify' timestamp='2012-06-13T02:05:23Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11877991' lat='48.8472183' lon='2.32695'>
+    <tag k='name' v='r. de Rennes' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-PLACIDE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='507192777' timestamp='2013-11-20T23:06:17Z' uid='17286' user='Pieren' visible='true' version='3' changeset='19025706' lat='48.8259503' lon='2.3575621'>
@@ -701,8 +863,11 @@
     <tag k='ref' v='2' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='516212583' timestamp='2012-11-14T15:50:35Z' uid='158826' user='cquest' visible='true' version='6' changeset='13872888' lat='48.879787' lon='2.3544747'>
+  <node id='516212583' action='modify' timestamp='2012-11-14T15:50:35Z' uid='158826' user='cquest' visible='true' version='6' changeset='13872888' lat='48.879787' lon='2.3544747'>
+    <tag k='name' v='bd de Denain' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DU NORD' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='518318991' timestamp='2012-09-03T12:19:31Z' uid='852622' user='CLEBRUN' visible='true' version='4' changeset='12966714' lat='48.8976533' lon='2.3448087'>
@@ -742,9 +907,9 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='518330210' timestamp='2013-06-20T15:53:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='5' changeset='16631828' lat='48.8837232' lon='2.327021'>
-    <tag k='name' v='Place de Clichy - sortie' />
+  <node id='518330210' action='modify' timestamp='2013-06-20T15:53:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='5' changeset='16631828' lat='48.8837232' lon='2.327021'>
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='PLACE DE CLICHY' />
   </node>
   <node id='518330215' timestamp='2013-05-25T15:51:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='16278208' lat='48.887649' lon='2.3254862'>
     <tag k='name' v='La Fourche' />
@@ -763,12 +928,10 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='518330273' timestamp='2013-06-20T15:53:13Z' uid='1424448' user='Singing-Poppy' visible='true' version='6' changeset='16631818' lat='48.8835931' lon='2.3278672'>
-    <tag k='heritage' v='3' />
-    <tag k='heritage:operator' v='mhs' />
-    <tag k='name' v='Place de Clichy - sortie' />
+  <node id='518330273' action='modify' timestamp='2013-06-20T15:53:13Z' uid='1424448' user='Singing-Poppy' visible='true' version='6' changeset='16631818' lat='48.8835931' lon='2.3278672'>
+    <tag k='name' v='Place de Clichy' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref:mhs' v='PA00086753' />
+    <tag k='station' v='PLACE DE CLICHY' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='528073182' timestamp='2012-10-20T01:29:09Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='13563119' lat='48.8460454' lon='2.3547484'>
@@ -805,8 +968,11 @@
     <tag k='ref' v='7' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='577328472' timestamp='2012-10-20T00:53:55Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13563119' lat='48.8794418' lon='2.3569846'>
+  <node id='577328472' action='modify' timestamp='2012-10-20T00:53:55Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13563119' lat='48.8794418' lon='2.3569846'>
+    <tag k='name' v='r. du Fbg Saint-Denis' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DU NORD' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='589485666' timestamp='2012-09-09T02:58:47Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='13040006' lat='48.8477745' lon='2.3969155'>
@@ -893,12 +1059,10 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='knowledge' />
   </node>
-  <node id='672720702' timestamp='2012-08-14T20:44:52Z' uid='158826' user='cquest' visible='true' version='4' changeset='12731578' lat='48.8788583' lon='2.3226962'>
-    <tag k='description' v='De style Guimard' />
-    <tag k='name' v='Europe' />
+  <node id='672720702' action='modify' timestamp='2012-08-14T20:44:52Z' uid='158826' user='cquest' visible='true' version='4' changeset='12731578' lat='48.8788583' lon='2.3226962'>
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='EUROPE' />
     <tag k='wheelchair' v='no' />
-    <tag k='wikipedia' v='fr:Europe (métro de Paris)' />
   </node>
   <node id='674728218' timestamp='2013-05-07T13:23:59Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='16005991' lat='48.8976391' lon='2.3594035'>
     <tag k='railway' v='subway_entrance' />
@@ -921,7 +1085,7 @@
   </node>
   <node id='676821310' timestamp='2012-02-09T21:09:29Z' uid='600884' user='Stamx' visible='true' version='3' changeset='10638314' lat='48.8586745' lon='2.3422722'>
     <tag k='name' v='Pont Neuf' />
-    <tag k='name:ru' v='...-...' />
+    <tag k='name:ru' v='Пон-Нёф' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
@@ -970,28 +1134,28 @@
   </node>
   <node id='679476624' timestamp='2012-02-09T21:09:24Z' uid='600884' user='Stamx' visible='true' version='5' changeset='10638314' lat='48.8624122' lon='2.3365894'>
     <tag k='name' v='Palais Royal - Musée du Louvre' />
-    <tag k='name:ru' v='....-...... . ....-..-....' />
+    <tag k='name:ru' v='Пале-Руаяль — Мюзе-дю-Лувр' />
     <tag k='railway' v='subway_entrance' />
     <tag k='station' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='679476628' timestamp='2012-02-09T21:09:25Z' uid='600884' user='Stamx' visible='true' version='4' changeset='10638314' lat='48.8625963' lon='2.3362568'>
     <tag k='name' v='Palais Royal - Musée du Louvre' />
-    <tag k='name:ru' v='....-...... . ....-..-....' />
+    <tag k='name:ru' v='Пале-Руаяль — Мюзе-дю-Лувр' />
     <tag k='railway' v='subway_entrance' />
     <tag k='station' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='679476632' timestamp='2012-02-09T21:09:25Z' uid='600884' user='Stamx' visible='true' version='4' changeset='10638314' lat='48.8627617' lon='2.3363499'>
     <tag k='name' v='Palais Royal - Musée du Louvre' />
-    <tag k='name:ru' v='....-...... . ....-..-....' />
+    <tag k='name:ru' v='Пале-Руаяль — Мюзе-дю-Лувр' />
     <tag k='railway' v='subway_entrance' />
     <tag k='station' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='679476635' timestamp='2012-06-13T00:49:18Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11877991' lat='48.8625299' lon='2.3373042'>
     <tag k='name' v='Palais Royal - Musée du Louvre' />
-    <tag k='name:ru' v='....-...... . ....-..-....' />
+    <tag k='name:ru' v='Пале-Руаяль — Мюзе-дю-Лувр' />
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
@@ -1011,7 +1175,7 @@
   </node>
   <node id='681677352' timestamp='2012-02-09T21:09:26Z' uid='600884' user='Stamx' visible='true' version='4' changeset='10638314' lat='48.8631378' lon='2.3360293'>
     <tag k='name' v='Palais Royal - Musée du Louvre' />
-    <tag k='name:ru' v='....-...... . ....-..-....' />
+    <tag k='name:ru' v='Пале-Руаяль — Мюзе-дю-Лувр' />
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
@@ -1032,33 +1196,30 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
   </node>
-  <node id='683398955' timestamp='2013-03-16T13:18:17Z' uid='152074' user='beweta' visible='true' version='5' changeset='15383773' lat='48.8665045' lon='2.3237284'>
-    <tag k='name' v='Concorde' />
-    <tag k='name:de' v='Eintracht' />
-    <tag k='name:es' v='Concordia' />
-    <tag k='name:it' v='Concorde' />
-    <tag k='name:pt' v='Concórdia' />
-    <tag k='name:ru' v='.......' />
+  <node id='683398955' action='modify' timestamp='2013-03-16T13:18:17Z' uid='152074' user='beweta' visible='true' version='5' changeset='15383773' lat='48.8665045' lon='2.3237284'>
+    <tag k='name' v='rue de Rivoli \n rue Saint-Florentin' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='CONCORDE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='683486949' timestamp='2011-10-18T16:07:19Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8693643' lon='2.3254318'>
+  <node id='683486949' action='modify' timestamp='2011-10-18T16:07:19Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.86936851809974' lon='2.3254959264898276'>
+    <tag k='name' v='r. Duphot' />
+    <tag k='num' v='3' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='MADELEINE' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='683486951' action='delete' timestamp='2011-10-18T16:07:18Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.869384' lon='2.3255253'>
     <tag k='name' v='Madeleine' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='683486951' timestamp='2011-10-18T16:07:18Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.869384' lon='2.3255253'>
-    <tag k='name' v='Madeleine' />
+  <node id='683486953' action='modify' timestamp='2011-10-18T16:07:19Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8696989' lon='2.3252642'>
+    <tag k='name' v='Église' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='683486953' timestamp='2011-10-18T16:07:19Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8696989' lon='2.3252642'>
-    <tag k='name' v='Madeleine' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='MADELEINE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='685907579' timestamp='2013-10-26T20:48:41Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18557718' lat='48.8695649' lon='2.3358784'>
@@ -1067,30 +1228,34 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='687096924' timestamp='2012-06-22T13:46:24Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8714958' lon='2.3378105'>
-    <tag k='name' v='Richelieu Drouot' />
+  <node id='687096924' action='modify' timestamp='2012-06-22T13:46:24Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8714958' lon='2.3378105'>
+    <tag k='lieu' v='Opéra Comique' />
+    <tag k='name' v='boulevard des italiens \n côté des n° impairs \n rue de Marivaux' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='RICHELIEU-DROUOT' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='687893107' timestamp='2010-04-07T20:54:59Z' uid='17286' user='Pieren' visible='true' version='1' changeset='4359137' lat='48.8717894' lon='2.3395087'>
-    <tag k='name' v='Richelieu Drouot' />
+  <node id='687893107' action='modify' timestamp='2010-04-07T20:54:59Z' uid='17286' user='Pieren' visible='true' version='1' changeset='4359137' lat='48.8717894' lon='2.3395087'>
+    <tag k='name' v='boulevard des italiens \n côté des n° impairs \n rue de Richelieu' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='RICHELIEU-DROUOT' />
   </node>
-  <node id='687929526' timestamp='2012-06-22T13:45:22Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8714573' lon='2.3426671'>
-    <tag k='name' v='Grands Boulevards' />
+  <node id='687929526' action='modify' timestamp='2012-06-22T13:45:22Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8714573' lon='2.3426671'>
+    <tag k='name' v='r. Montmartre' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='GRANDS BOULEVARDS' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='688074786' timestamp='2012-06-13T00:57:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8708913' lon='2.3321971'>
-    <tag k='name' v='Opéra' />
+  <node id='688074786' action='modify' timestamp='2012-06-13T00:57:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.87083646634447' lon='2.3322291632449144'>
+    <tag k='lieu' v='Théâtre National de l&apos;Opéra' />
+    <tag k='name' v='pl. de l&apos;Opéra' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='OPERA' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='688074807' timestamp='2012-07-03T18:21:41Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='12097020' lat='48.8704466' lon='2.3323921'>
+  <node id='688074807' action='delete' timestamp='2012-07-03T18:21:41Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='12097020' lat='48.8704466' lon='2.3323921'>
     <tag k='name' v='Opéra' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
@@ -1102,29 +1267,32 @@
     <tag k='source' v='survey' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='689486524' timestamp='2010-04-08T22:15:14Z' uid='17286' user='Pieren' visible='true' version='1' changeset='4368585' lat='48.8709937' lon='2.3454844'>
+  <node id='689486524' action='modify' timestamp='2010-04-08T22:15:14Z' uid='17286' user='Pieren' visible='true' version='1' changeset='4368585' lat='48.87095152035664' lon='2.3456575415225354'>
+    <tag k='name' v='r. Saint-Fiacre' />
+    <tag k='num' v='5' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GRANDS BOULEVARDS' />
+  </node>
+  <node id='689486696' action='delete' timestamp='2010-04-08T22:15:18Z' uid='17286' user='Pieren' visible='true' version='1' changeset='4368585' lat='48.8709453' lon='2.3457686'>
     <tag k='name' v='Grands Boulevards' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
   </node>
-  <node id='689486696' timestamp='2010-04-08T22:15:18Z' uid='17286' user='Pieren' visible='true' version='1' changeset='4368585' lat='48.8709453' lon='2.3457686'>
-    <tag k='name' v='Grands Boulevards' />
+  <node id='690934081' action='modify' timestamp='2012-07-11T20:01:19Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189654' lat='48.8713392' lon='2.3434431'>
+    <tag k='name' v='bd Poissonnière' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </node>
-  <node id='690934081' timestamp='2012-07-11T20:01:19Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189654' lat='48.8713392' lon='2.3434431'>
-    <tag k='name' v='Grands Boulevards' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='GRANDS BOULEVARDS' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='690981959' timestamp='2012-07-11T20:44:05Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189687' lat='48.8706564' lon='2.3474642'>
-    <tag k='name' v='Bonne Nouvelle' />
+  <node id='690981959' action='modify' timestamp='2012-07-11T20:44:05Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189687' lat='48.870686225691465' lon='2.347346304882892'>
+    <tag k='name' v='r. du Sentier' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='BONNE NOUVELLE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='690982310' timestamp='2012-07-11T20:44:05Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189687' lat='48.8706972' lon='2.347261'>
+  <node id='690982310' action='delete' timestamp='2012-07-11T20:44:05Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189687' lat='48.8706972' lon='2.347261'>
     <tag k='name' v='Bonne Nouvelle' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
@@ -1187,16 +1355,18 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='694399434' timestamp='2012-10-20T00:55:00Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.8700403' lon='2.3505321'>
-    <tag k='name' v='Bonne Nouvelle' />
+  <node id='694399434' action='modify' timestamp='2012-10-20T00:55:00Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.8700403' lon='2.3505321'>
+    <tag k='name' v='r. de la Lune' />
+    <tag k='num' v='5' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='BONNE NOUVELLE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='694399703' timestamp='2012-07-11T20:44:05Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189687' lat='48.8700898' lon='2.3502995'>
-    <tag k='name' v='Bonne Nouvelle' />
+  <node id='694399703' action='modify' timestamp='2012-07-11T20:44:05Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189687' lat='48.8700898' lon='2.3502995'>
+    <tag k='name' v='bd de Bonne Nouvelle' />
+    <tag k='num' v='6' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='BONNE NOUVELLE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='696674567' timestamp='2013-11-16T14:02:41Z' uid='372429' user='maxime1986' visible='true' version='4' changeset='18933880' lat='48.8576635' lon='2.3514333'>
@@ -1404,9 +1574,9 @@
   <node id='767354872' timestamp='2010-06-08T16:41:27Z' uid='83557' user='Esperanza36' visible='true' version='2' changeset='4938542' lat='48.9300331' lon='2.3555443'>
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='768033705' timestamp='2012-11-07T04:09:06Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13781205' lat='48.8579895' lon='2.3233881'>
-    <tag k='name' v='Solférino' />
-    <tag k='name:ru' v='..........' />
+  <node id='768033705' action='modify' timestamp='2012-11-07T04:09:06Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13781205' lat='48.8579895' lon='2.3233881'>
+    <tag k='name' v='r. Saint-Dominique' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
@@ -1415,12 +1585,18 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='survey' />
   </node>
-  <node id='775370144' timestamp='2012-10-20T00:52:53Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.8843472' lon='2.3596568'>
+  <node id='775370144' action='modify' timestamp='2012-10-20T00:52:53Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.8843472' lon='2.3596568'>
+    <tag k='name' v='r. du Fbg St-Denis' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='LA CHAPELLE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='775370145' timestamp='2012-10-20T00:52:54Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.8844354' lon='2.3596568'>
+  <node id='775370145' action='modify' timestamp='2012-10-20T00:52:54Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.884469134622776' lon='2.3596567999999998'>
+    <tag k='name' v='r. Marx Dormoy' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='LA CHAPELLE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='775370153' timestamp='2012-11-07T01:55:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='13776304' lat='48.8828827' lon='2.3440615'>
@@ -1452,8 +1628,9 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='775375800' timestamp='2012-06-16T17:25:14Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11912708' lat='48.8775226' lon='2.3706619'>
+  <node id='775375800' action='modify' timestamp='2012-06-16T17:25:14Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11912708' lat='48.8775226' lon='2.3706619'>
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='COLONEL FABIEN' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='775375803' timestamp='2010-06-17T22:35:34Z' uid='33634' user='lapinos03' visible='true' version='1' changeset='5012825' lat='48.8724862' lon='2.3767344'>
@@ -1474,22 +1651,26 @@
   <node id='775378878' timestamp='2011-05-24T22:26:39Z' uid='17286' user='Pieren' visible='true' version='2' changeset='8240378' lat='48.8625822' lon='2.3875253'>
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='780158010' timestamp='2012-06-22T23:25:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11983480' lat='48.8522237' lon='2.3393282'>
+  <node id='780158010' action='modify' timestamp='2012-06-22T23:25:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11983480' lat='48.85226167588788' lon='2.3391326142060254'>
+    <tag k='name' v='car. de l&apos;Odéon' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='ODEON' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='780158769' action='delete' timestamp='2012-06-22T23:25:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11983480' lat='48.8523166' lon='2.3389386'>
     <tag k='name' v='Odéon' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='780158769' timestamp='2012-06-22T23:25:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11983480' lat='48.8523166' lon='2.3389386'>
-    <tag k='name' v='Odéon' />
+  <node id='780158960' action='modify' timestamp='2012-07-19T12:25:08Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12323993' lat='48.8521307' lon='2.3396585'>
+    <tag k='name' v='r. de l&apos;École de Médecine' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='780158960' timestamp='2012-07-19T12:25:08Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12323993' lat='48.8521307' lon='2.3396585'>
-    <tag k='name' v='Odéon' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='ODEON' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='783324478' timestamp='2013-11-07T12:53:19Z' uid='372429' user='maxime1986' visible='true' version='3' changeset='18763999' lat='48.8467423' lon='2.340275'>
@@ -1498,70 +1679,76 @@
     <tag k='ref' v='1' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
   </node>
-  <node id='785544346' timestamp='2010-06-23T20:10:40Z' uid='17286' user='Pieren' visible='true' version='1' changeset='5061623' lat='48.8514661' lon='2.3311383'>
-    <tag k='name' v='Saint-Sulpice' />
+  <node id='785544346' action='modify' timestamp='2010-06-23T20:10:40Z' uid='17286' user='Pieren' visible='true' version='1' changeset='5061623' lat='48.8514661' lon='2.3311383'>
+    <tag k='name' v='r. de Rennes' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='SAINT-SULPICE' />
   </node>
-  <node id='785722194' timestamp='2012-07-18T15:01:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8482029' lon='2.3277872'>
+  <node id='785722194' action='delete' timestamp='2012-07-18T15:01:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8482029' lon='2.3277872'>
     <tag k='name' v='Rennes' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='785722492' timestamp='2012-07-18T15:01:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8484319' lon='2.3277233'>
-    <tag k='name' v='Rennes' />
+  <node id='785722492' action='modify' timestamp='2012-07-18T15:01:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8483170199249' lon='2.3277573082068583'>
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='RENNES' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='786143346' timestamp='2012-06-22T23:29:40Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11983480' lat='48.8509259' lon='2.3253968'>
-    <tag k='name' v='Sèvres Babylone' />
+  <node id='786143346' action='modify' timestamp='2012-06-22T23:29:40Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11983480' lat='48.8509259' lon='2.3253968'>
+    <tag k='lieu' v='Le Bon Marché' />
+    <tag k='name' v='r. Velpeau' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='SEVRES-BABYLONE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='787964107' timestamp='2012-07-18T14:59:24Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8445379' lon='2.3288451'>
+  <node id='787964107' action='delete' timestamp='2012-07-18T14:59:24Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8445379' lon='2.3288451'>
     <tag k='name' v='Notre-Dame-des-Champs' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='787965824' timestamp='2012-07-18T14:59:24Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8447748' lon='2.3287786'>
-    <tag k='name' v='Notre-Dame-des-Champs' />
+  <node id='787965824' action='modify' timestamp='2012-07-18T14:59:24Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.844650959175844' lon='2.3288126082068583'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='NOTRE-DAME DES CHAMPS' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='790027804' timestamp='2013-09-22T11:20:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='10' changeset='17971841' lat='48.8756313' lon='2.3241275'>
-    <tag k='name' v='Saint-Lazare - sortie 1 cour de Rome' />
+  <node id='790027804' action='modify' timestamp='2013-09-22T11:20:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='10' changeset='17971841' lat='48.8756313' lon='2.3241275'>
+    <tag k='name' v='cour de Rome' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='1' />
-    <tag k='source' v='survey' />
+    <tag k='station' v='SAINT-LAZARE' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='790498979' timestamp='2012-07-18T14:59:26Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8421311' lon='2.328826'>
-    <tag k='name' v='Vavin' />
+  <node id='790498979' action='modify' timestamp='2012-07-18T14:59:26Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8421522019717' lon='2.328755460861189'>
+    <tag k='name' v='bd du Montparnasse' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='VAVIN' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='790499201' timestamp='2012-07-18T14:59:26Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='12277352' lat='48.8421027' lon='2.3289096'>
-    <tag k='name' v='Vavin' />
+  <node id='790499201' action='modify' timestamp='2012-07-18T14:59:26Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='12277352' lat='48.84207315720795' lon='2.3289897581122845'>
+    <tag k='name' v='r. Delambre' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='VAVIN' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='790499285' timestamp='2012-07-18T15:00:33Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.842352' lon='2.3288836'>
-    <tag k='name' v='Vavin' />
+  <node id='790499285' action='modify' timestamp='2012-07-18T15:00:33Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.842374156972305' lon='2.3288066482122067'>
+    <tag k='name' v='r. Vavin' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='VAVIN' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='790499310' timestamp='2012-07-18T14:59:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.8422712' lon='2.329125'>
-    <tag k='name' v='Vavin' />
+  <node id='790499310' action='modify' timestamp='2012-07-18T14:59:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12277352' lat='48.84224482259669' lon='2.3292115707612675'>
+    <tag k='name' v='bd Raspail' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='VAVIN' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='791471208' timestamp='2013-11-16T15:00:24Z' uid='372429' user='maxime1986' visible='true' version='4' changeset='18934924' lat='48.8436574' lon='2.3249226'>
@@ -1605,39 +1792,41 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='801199553' timestamp='2013-09-22T11:02:36Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971524' lat='48.8468601' lon='2.3171182'>
-    <tag k='name' v='Duroc - sortie 3 place Léon-Paul Fargue' />
+  <node id='801199553' action='modify' timestamp='2013-09-22T11:02:36Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971524' lat='48.8468601' lon='2.3171182'>
+    <tag k='name' v='pl. Léon-Paul Fargue' />
     <tag k='railway' v='subway_entrance' />
     <tag k='ref' v='3' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='DUROC' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='802783924' timestamp='2013-09-22T11:02:36Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971524' lat='48.8466612' lon='2.3166602'>
-    <tag k='name' v='Duroc - sortie 4 boulevard de Montparnasse' />
+  <node id='802783924' action='modify' timestamp='2013-09-22T11:02:36Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971524' lat='48.8466612' lon='2.3166602'>
+    <tag k='lieu' v='Hôpital Necker-Enfants malades' />
+    <tag k='name' v='bd du Montparnasse' />
     <tag k='railway' v='subway_entrance' />
     <tag k='ref' v='4' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='DUROC' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='802783931' timestamp='2013-09-22T11:02:36Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971524' lat='48.8470115' lon='2.3163213'>
-    <tag k='name' v='Duroc - sortie 1 boulevard des Invalides' />
+  <node id='802783931' action='modify' timestamp='2013-09-22T11:02:36Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971524' lat='48.8470115' lon='2.3163213'>
+    <tag k='lieu' v='Institut national des jeunes aveugles' />
+    <tag k='name' v='bd des Invalides' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='1' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='DUROC' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='802783950' timestamp='2013-09-22T11:02:36Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971524' lat='48.8470689' lon='2.3168779'>
-    <tag k='name' v='Duroc - sortie 2 rue de Sèvres' />
+  <node id='802783950' action='modify' timestamp='2013-09-22T11:02:36Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971524' lat='48.8470689' lon='2.3168779'>
+    <tag k='name' v='r. de Sèvres' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='1' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='ref' v='2' />
+    <tag k='station' v='DUROC' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='806011952' timestamp='2013-11-07T22:16:58Z' uid='1198089' user='GeorgeKaplan' visible='true' version='4' changeset='18773210' lat='48.8529205' lon='2.3357677'>
-    <tag k='name' v='Mabillon - sortie 1 rue de Montfaucon' />
+  <node id='806011952' action='modify' timestamp='2013-11-07T22:16:58Z' uid='1198089' user='GeorgeKaplan' visible='true' version='4' changeset='18773210' lat='48.8529205' lon='2.3357677'>
+    <tag k='name' v='r. de Montfaucon' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='1' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='MABILLON' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='806440855' timestamp='2013-07-09T17:49:09Z' uid='158826' user='cquest' visible='true' version='6' changeset='16889224' lat='48.8608756' lon='2.3254494'>
@@ -1652,162 +1841,169 @@
     <tag k='tactile_paving' v='no' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='807213472' timestamp='2011-07-25T20:43:48Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='8827936' lat='48.8674739' lon='2.3132616'>
-    <tag k='name' v='Champs-Élysées Clemenceau' />
+  <node id='807213472' action='modify' timestamp='2011-07-25T20:43:48Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='8827936' lat='48.8674739' lon='2.3132616'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='CHAMPS-ELYSEES-CLEMENCEAU' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='813771153' timestamp='2011-10-18T15:34:41Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8723618' lon='2.3099495'>
+  <node id='813771153' action='modify' timestamp='2011-10-18T15:34:41Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.872327501601944' lon='2.30995176721379'>
+    <tag k='name' v='av. Franklin D. Roosevelt' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-PHILIPPE DU ROULE' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='813771188' action='modify' timestamp='2011-10-18T15:34:42Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8724815' lon='2.3101493'>
+    <tag k='name' v='r. de La Boétie' />
+    <tag k='num' v='1' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-PHILIPPE DU ROULE' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='813771795' action='delete' timestamp='2011-10-18T15:34:41Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8722931' lon='2.3099505'>
     <tag k='name' v='Saint-Philippe du Roule' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='813771188' timestamp='2011-10-18T15:34:42Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8724815' lon='2.3101493'>
-    <tag k='name' v='Saint-Philippe du Roule' />
+  <node id='813872936' action='modify' timestamp='2013-07-01T14:10:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='16778461' lat='48.8735705' lon='2.3143174'>
+    <tag k='name' v='avenue Delcassé \n côté des n° impairs \n rue de La Boétie' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='MIROMESNIL' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='813771795' timestamp='2011-10-18T15:34:41Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8722931' lon='2.3099505'>
-    <tag k='name' v='Saint-Philippe du Roule' />
+  <node id='813873422' action='modify' timestamp='2013-07-01T14:10:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='16778461' lat='48.8737554' lon='2.3143474'>
+    <tag k='name' v='avenue Percier \n côté des n° impairs \n rue de La Boétie' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='MIROMESNIL' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='813872936' timestamp='2013-07-01T14:10:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='16778461' lat='48.8735705' lon='2.3143174'>
-    <tag k='name' v='Miromesnil - Sortie Avenue Delcassé côté des n° impairs, rue de La Boétie' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='813873422' timestamp='2013-07-01T14:10:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='16778461' lat='48.8737554' lon='2.3143474'>
-    <tag k='name' v='Miromesnil - Sortie Avenue Percier côté des n° impairs, rue de La Boétie' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='814013994' timestamp='2011-10-18T16:16:25Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8738296' lon='2.3157732'>
+  <node id='814013994' action='delete' timestamp='2011-10-18T16:16:25Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8738296' lon='2.3157732'>
     <tag k='name' v='Miromesnil' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='814014442' timestamp='2013-07-01T14:10:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='16778461' lat='48.8738124' lon='2.3156728'>
-    <tag k='name' v='Miromesnil - Sortie Rue de La Boétie côté des n° impairs' />
+  <node id='814014442' action='modify' timestamp='2013-07-01T14:10:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='16778461' lat='48.87380941761799' lon='2.315704540993068'>
+    <tag k='name' v='rue de La Boétie \n côté des n° impairs' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='MIROMESNIL' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='815851432' timestamp='2011-10-18T17:53:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8709979' lon='2.3253039'>
+  <node id='815851432' action='modify' timestamp='2011-10-18T17:53:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.87103375266587' lon='2.3253295505959315'>
+    <tag k='name' v='r. de Sèze' />
+    <tag k='num' v='4' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='MADELEINE' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='815851445' action='modify' timestamp='2011-10-18T17:54:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8711495' lon='2.3251431'>
+    <tag k='name' v='r. Tronchet' />
+    <tag k='num' v='5' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='MADELEINE' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='815851447' action='delete' timestamp='2011-10-18T17:53:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8710719' lon='2.3253582'>
     <tag k='name' v='Madeleine' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='815851445' timestamp='2011-10-18T17:54:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8711495' lon='2.3251431'>
-    <tag k='name' v='Madeleine' />
+  <node id='817222424' action='modify' timestamp='2011-10-18T17:57:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.87445094414096' lon='2.321296509848229'>
+    <tag k='lieu' v='Église Saint-Augustin' />
+    <tag k='name' v='bd Malesherbes' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='815851447' timestamp='2011-10-18T17:53:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8710719' lon='2.3253582'>
-    <tag k='name' v='Madeleine' />
+  <node id='817222611' action='modify' timestamp='2013-09-22T11:20:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8747426' lon='2.3246852'>
+    <tag k='name' v='r. de l&apos;Arcade' />
+    <tag k='num' v='7' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='SAINT-LAZARE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817222424' timestamp='2011-10-18T17:57:38Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8744584' lon='2.3212557'>
+  <node id='817222629' action='modify' timestamp='2011-10-18T17:54:31Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.874604938172354' lon='2.321457845875959'>
+    <tag k='lieu' v='Église Saint-Augustin' />
+    <tag k='name' v='bd Haussmann' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SAINT-AUGUSTIN' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='817222645' action='delete' timestamp='2011-10-18T17:54:31Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8744465' lon='2.3213536'>
     <tag k='name' v='Saint-Augustin' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817222611' timestamp='2013-09-22T11:20:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8747426' lon='2.3246852'>
-    <tag k='name' v='Saint-Lazare - sortie 7 rue de l&apos;Arcade' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='7' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='817222629' timestamp='2011-10-18T17:54:31Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8745945' lon='2.321544'>
+  <node id='817222861' action='delete' timestamp='2011-10-18T17:54:32Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8746214' lon='2.321338'>
     <tag k='name' v='Saint-Augustin' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817222645' timestamp='2011-10-18T17:54:31Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8744465' lon='2.3213536'>
-    <tag k='name' v='Saint-Augustin' />
+  <node id='817223132' action='modify' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8750886' lon='2.3248895'>
+    <tag k='name' v='pl. Gabriel Péri' />
+    <tag k='num' v='6' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='SAINT-LAZARE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817222861' timestamp='2011-10-18T17:54:32Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8746214' lon='2.321338'>
-    <tag k='name' v='Saint-Augustin' />
+  <node id='817244419' action='modify' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.87536545601613' lon='2.3263868632449136'>
+    <tag k='name' v='pl. du Havre' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='SAINT-LAZARE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817223132' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8750886' lon='2.3248895'>
-    <tag k='name' v='Saint-Lazare - sortie 6 place Gabriel Péri' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='6' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='817244419' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.875376' lon='2.3263548'>
+  <node id='817244453' action='delete' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8753525' lon='2.3264081'>
     <tag k='name' v='Saint-Lazare - sortie 2 place du Havre' />
     <tag k='railway' v='subway_entrance' />
     <tag k='ref' v='2' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817244453' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8753525' lon='2.3264081'>
-    <tag k='name' v='Saint-Lazare - sortie 2 place du Havre' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='2' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='817304017' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8754444' lon='2.3268711'>
+  <node id='817304017' action='delete' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8754444' lon='2.3268711'>
     <tag k='name' v='Saint-Lazare - sortie 3 passage du Havre' />
     <tag k='railway' v='subway_entrance' />
     <tag k='ref' v='3' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817304062' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8753956' lon='2.3268226'>
-    <tag k='name' v='Saint-Lazare - sortie 3 passage du Havre' />
+  <node id='817304062' action='modify' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.87541668795279' lon='2.3268482505959307'>
+    <tag k='name' v='passage du Havre' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='3' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='SAINT-LAZARE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817304110' timestamp='2012-06-13T00:35:59Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11877991' lat='48.8737472' lon='2.3278981'>
-    <tag k='name' v='Havre - Caumartin' />
+  <node id='817304110' action='modify' timestamp='2012-06-13T00:35:59Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11877991' lat='48.8737472' lon='2.3278981'>
+    <tag k='name' v='r. du Havre' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='HAVRE-CAUMARTIN' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817304191' timestamp='2012-06-13T00:35:57Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8735662' lon='2.3279071'>
-    <tag k='name' v='Havre - Caumartin' />
+  <node id='817304191' action='modify' timestamp='2012-06-13T00:35:57Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8735662' lon='2.3279071'>
+    <tag k='name' v='r. Auber' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='HAVRE-CAUMARTIN' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='817304248' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8758942' lon='2.3267099'>
-    <tag k='name' v='Saint-Lazare - sortie 8 rue d&apos;Amsterdam' />
+  <node id='817304248' action='modify' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17971841' lat='48.8758942' lon='2.3267099'>
+    <tag k='name' v='r. d&apos;Amsterdam' />
+    <tag k='num' v='8' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='8' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='SAINT-LAZARE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='821879327' timestamp='2013-06-20T15:53:13Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='16631818' lat='48.8842688' lon='2.3290452'>
-    <tag k='name' v='Place de Clichy - sortie' />
+  <node id='821879327' action='modify' timestamp='2013-06-20T15:53:13Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='16631818' lat='48.8842688' lon='2.3290452'>
+    <tag k='name' v='rue Caulaincourt' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='PLACE DE CLICHY' />
   </node>
   <node id='822185500' timestamp='2013-08-14T16:05:03Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17347985' lat='48.8811531' lon='2.3161398'>
     <tag k='name' v='Villiers - sortie 2 Boulevard de Batignolles' />
@@ -1828,18 +2024,23 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='ref' v='3' />
   </node>
-  <node id='822766509' timestamp='2013-05-25T15:49:03Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='16278208' lat='48.8803757' lon='2.3094394'>
-    <tag k='name' v='Monceau' />
+  <node id='822766509' action='modify' timestamp='2013-05-25T15:49:03Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='16278208' lat='48.8803757' lon='2.3094394'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='MONCEAU' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='826071244' timestamp='2012-06-13T00:37:00Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11877991' lat='48.8728692' lon='2.3299936'>
+  <node id='826071244' action='modify' timestamp='2012-06-13T00:37:00Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11877991' lat='48.8728692' lon='2.3299936'>
+    <tag k='name' v='r. des Mathurins' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='AUBER' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='826071245' timestamp='2012-06-13T00:58:32Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11877991' lat='48.8724037' lon='2.3297749'>
+  <node id='826071245' action='modify' timestamp='2012-06-13T00:58:32Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='11877991' lat='48.8724037' lon='2.3297749'>
+    <tag k='name' v='r. Auber' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='AUBER' />
     <tag k='wheelchair' v='yes' />
   </node>
   <node id='826357300' timestamp='2013-10-09T12:35:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='5' changeset='18263866' lat='48.8231782' lon='2.3261865'>
@@ -1860,95 +2061,108 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='827450526' timestamp='2011-10-18T18:20:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='9587957' lat='48.8745671' lon='2.2959343'>
-    <tag k='name' v='Charles de Gaulle - Étoile' />
+  <node id='827450526' action='modify' timestamp='2011-10-18T18:20:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='9587957' lat='48.8745671' lon='2.2959343'>
+    <tag k='name' v='av. Hoche' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='828086141' timestamp='2011-02-27T09:58:49Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='7408251' lat='48.8793673' lon='2.3034558'>
-    <tag k='name' v='Courcelles' />
+  <node id='828086141' action='modify' timestamp='2011-02-27T09:58:49Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='7408251' lat='48.8793673' lon='2.3034558'>
+    <tag k='name' v='r. de Chazelles' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='COURCELLES' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='828086159' timestamp='2010-07-21T19:41:22Z' uid='17286' user='Pieren' visible='true' version='1' changeset='5281707' lat='48.8791398' lon='2.3036772'>
-    <tag k='name' v='Courcelles' />
+  <node id='828086159' action='modify' timestamp='2010-07-21T19:41:22Z' uid='17286' user='Pieren' visible='true' version='1' changeset='5281707' lat='48.8791398' lon='2.3036772'>
+    <tag k='lieu' v='Parc de Monceau' />
+    <tag k='name' v='bd de Courcelles' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='COURCELLES' />
   </node>
-  <node id='828728714' timestamp='2011-10-18T18:03:33Z' uid='210173' user='osmmaker' visible='true' version='2' changeset='9593406' lat='48.8700086' lon='2.3074744'>
+  <node id='828728714' action='delete' timestamp='2011-10-18T18:03:33Z' uid='210173' user='osmmaker' visible='true' version='2' changeset='9593406' lat='48.8700086' lon='2.3074744'>
     <tag k='name' v='Franklin D. Roosevelt' />
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='828728720' timestamp='2011-10-18T18:03:33Z' uid='210173' user='osmmaker' visible='true' version='2' changeset='9593406' lat='48.8701031' lon='2.3071556'>
+  <node id='828728720' action='modify' timestamp='2011-10-18T18:03:33Z' uid='210173' user='osmmaker' visible='true' version='2' changeset='9593406' lat='48.87005537832895' lon='2.307300701682595'>
+    <tag k='name' v='Champs-Élysées' />
+    <tag k='num' v='1' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='FRANKLIN-ROOSEVELT' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='828728721' action='modify' timestamp='2012-11-04T14:01:02Z' uid='456113' user='eric_G' visible='true' version='4' changeset='13747158' lat='48.869761060668935' lon='2.3070889705377575'>
+    <tag k='name' v='r. de Marignan' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='FRANKLIN-ROOSEVELT' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='828728728' action='delete' timestamp='2012-11-04T14:01:02Z' uid='456113' user='eric_G' visible='true' version='4' changeset='13747158' lat='48.8697039' lon='2.3072539'>
     <tag k='name' v='Franklin D. Roosevelt' />
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='828728721' timestamp='2012-11-04T14:01:02Z' uid='456113' user='eric_G' visible='true' version='4' changeset='13747158' lat='48.8698058' lon='2.3069348'>
-    <tag k='name' v='Franklin D. Roosevelt' />
+  <node id='829132706' action='modify' timestamp='2011-10-18T18:13:16Z' uid='210173' user='osmmaker' visible='true' version='2' changeset='9593512' lat='48.8718297' lon='2.3005415'>
+    <tag k='name' v='av. George V' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GEORGE V' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='828728728' timestamp='2012-11-04T14:01:02Z' uid='456113' user='eric_G' visible='true' version='4' changeset='13747158' lat='48.8697039' lon='2.3072539'>
-    <tag k='name' v='Franklin D. Roosevelt' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='829132706' timestamp='2011-10-18T18:13:16Z' uid='210173' user='osmmaker' visible='true' version='2' changeset='9593512' lat='48.8718297' lon='2.3005415'>
+  <node id='829132716' action='delete' timestamp='2011-12-06T20:51:02Z' uid='33634' user='lapinos03' visible='true' version='4' changeset='10053478' lat='48.8717536' lon='2.302053'>
     <tag k='name' v='George V' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='829132716' timestamp='2011-12-06T20:51:02Z' uid='33634' user='lapinos03' visible='true' version='4' changeset='10053478' lat='48.8717536' lon='2.302053'>
-    <tag k='name' v='George V' />
+  <node id='829203229' action='modify' timestamp='2011-10-18T18:13:16Z' uid='210173' user='osmmaker' visible='true' version='3' changeset='9593512' lat='48.8722074' lon='2.3006105'>
+    <tag k='name' v='Champs-Élysées' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GEORGE V' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='829203229' timestamp='2011-10-18T18:13:16Z' uid='210173' user='osmmaker' visible='true' version='3' changeset='9593512' lat='48.8722074' lon='2.3006105'>
-    <tag k='name' v='George V' />
+  <node id='829543591' action='modify' timestamp='2011-10-18T15:35:44Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8683725' lon='2.309183'>
+    <tag k='name' v='av. Montaigne' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey' />
+    <tag k='station' v='FRANKLIN-ROOSEVELT' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='829543591' timestamp='2011-10-18T15:35:44Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8683725' lon='2.309183'>
-    <tag k='name' v='Franklin D. Roosevelt' />
+  <node id='829544170' action='modify' timestamp='2011-10-18T00:52:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9578325' lat='48.8684897' lon='2.3095267'>
+    <tag k='lieu' v='Palais de la Découverte' />
+    <tag k='name' v='av. Franklin D. Roosevelt' />
+    <tag k='num' v='5' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='FRANKLIN-ROOSEVELT' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='829544170' timestamp='2011-10-18T00:52:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9578325' lat='48.8684897' lon='2.3095267'>
-    <tag k='name' v='Franklin D. Roosevelt' />
+  <node id='829544307' action='modify' timestamp='2011-10-18T00:52:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9578325' lat='48.8687112' lon='2.3092625'>
+    <tag k='name' v='Rond-Point' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='829544307' timestamp='2011-10-18T00:52:29Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9578325' lat='48.8687112' lon='2.3092625'>
-    <tag k='name' v='Franklin D. Roosevelt' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='830365733' timestamp='2012-02-09T21:09:25Z' uid='600884' user='Stamx' visible='true' version='3' changeset='10638314' lat='48.8624851' lon='2.3356361'>
     <tag k='name' v='Palais Royal - Musée du Louvre' />
-    <tag k='name:ru' v='....-...... . ....-..-....' />
+    <tag k='name:ru' v='Пале-Руаяль — Мюзе-дю-Лувр' />
     <tag k='railway' v='subway_entrance' />
     <tag k='station' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='830365753' timestamp='2012-02-09T21:09:25Z' uid='600884' user='Stamx' visible='true' version='3' changeset='10638314' lat='48.8627294' lon='2.3362968'>
     <tag k='name' v='Palais Royal - Musée du Louvre' />
-    <tag k='name:ru' v='....-...... . ....-..-....' />
+    <tag k='name:ru' v='Пале-Руаяль — Мюзе-дю-Лувр' />
     <tag k='railway' v='subway_entrance' />
     <tag k='station' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='830365770' timestamp='2012-02-09T21:09:26Z' uid='600884' user='Stamx' visible='true' version='3' changeset='10638314' lat='48.8624311' lon='2.3358029'>
-    <tag k='name' v='Palais Royal . Musée du Louvre' />
-    <tag k='name:ru' v='....-...... . ....-..-....' />
+    <tag k='name' v='Palais Royal — Musée du Louvre' />
+    <tag k='name:ru' v='Пале-Руаяль — Мюзе-дю-Лувр' />
     <tag k='railway' v='subway_entrance' />
     <tag k='station' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
@@ -1956,27 +2170,27 @@
   <node id='830365974' timestamp='2013-03-16T13:18:19Z' uid='152074' user='beweta' visible='true' version='5' changeset='15383773' lat='48.8642879' lon='2.3300996'>
     <tag k='name' v='Tuileries' />
     <tag k='name:de' v='Tuilerien' />
-    <tag k='name:ru' v='.......' />
+    <tag k='name:ru' v='Тюильри' />
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='830366055' timestamp='2013-03-16T13:18:19Z' uid='152074' user='beweta' visible='true' version='5' changeset='15383773' lat='48.864248' lon='2.3302255'>
     <tag k='name' v='Tuileries' />
     <tag k='name:de' v='Tuilerien' />
-    <tag k='name:ru' v='.......' />
+    <tag k='name:ru' v='Тюильри' />
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='831854832' timestamp='2013-09-22T22:53:42Z' uid='210173' user='osmmaker' visible='true' version='4' changeset='17982789' lat='48.8584801' lon='2.3421443'>
     <tag k='name' v='Pont Neuf' />
-    <tag k='name:ru' v='...-...' />
+    <tag k='name:ru' v='Пон-Нёф' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='831854851' timestamp='2012-02-09T21:09:20Z' uid='600884' user='Stamx' visible='true' version='4' changeset='10638314' lat='48.8606931' lon='2.3408863'>
-    <tag k='name' v='Louvre . Rivoli' />
-    <tag k='name:ru' v='.... . ......' />
+    <tag k='name' v='Louvre — Rivoli' />
+    <tag k='name:ru' v='Лувр — Риволи' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
@@ -2001,15 +2215,18 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
   </node>
-  <node id='838121864' timestamp='2011-10-18T18:20:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8741838' lon='2.2964032'>
-    <tag k='name' v='Charles de Gaulle - Étoile' />
+  <node id='838121864' action='modify' timestamp='2011-10-18T18:20:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8741838' lon='2.2964032'>
+    <tag k='name' v='av. de Friedland' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='838122776' timestamp='2013-06-06T08:04:07Z' uid='158826' user='cquest' visible='true' version='2' changeset='16441777' lat='48.8740631' lon='2.2969658'>
-    <tag k='name' v='Charles de Gaulle-Étoile' />
+  <node id='838122776' action='modify' timestamp='2013-06-06T08:04:07Z' uid='158826' user='cquest' visible='true' version='2' changeset='16441777' lat='48.8740631' lon='2.2969658'>
+    <tag k='name' v='av. de Friedland' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='838532985' timestamp='2010-07-30T10:27:44Z' uid='17286' user='Pieren' visible='true' version='1' changeset='5353399' lat='48.8784048' lon='2.2989779'>
@@ -2047,24 +2264,27 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='891069014' timestamp='2010-08-31T21:24:11Z' uid='332493' user='bazgal' visible='true' version='1' changeset='5649675' lat='48.8809223' lon='2.3577048'>
+  <node id='891069014' action='modify' timestamp='2010-08-31T21:24:11Z' uid='332493' user='bazgal' visible='true' version='1' changeset='5649675' lat='48.880428893884584' lon='2.357448294040688'>
+    <tag k='name' v='SNCF' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DU NORD' />
   </node>
   <node id='895871336' timestamp='2012-02-09T20:17:42Z' uid='600884' user='Stamx' visible='true' version='2' changeset='10637730' lat='48.8601732' lon='2.3248657'>
     <tag k='name' v='Musée d&apos;Orsay' />
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='911471078' timestamp='2013-06-06T07:31:56Z' uid='158826' user='cquest' visible='true' version='2' changeset='16441473' lat='48.8734568' lon='2.2970549'>
-    <tag k='name' v='Charles de Gaulle-Étoile' />
+  <node id='911471078' action='modify' timestamp='2013-06-06T07:31:56Z' uid='158826' user='cquest' visible='true' version='2' changeset='16441473' lat='48.8734568' lon='2.2970549'>
+    <tag k='lieu' v='Arc de Triomphe' />
+    <tag k='name' v='Champs-Élysées' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='913972898' timestamp='2012-07-19T12:22:02Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='12323993' lat='48.8488193' lon='2.3211216'>
-    <tag k='addr:housenumber' v='42b' />
-    <tag k='addr:street' v='Rue de Sèvres' />
+  <node id='913972898' action='modify' timestamp='2012-07-19T12:22:02Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='12323993' lat='48.8488193' lon='2.3211216'>
+    <tag k='name' v='r. de Sèvres' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='VANEAU' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='921648324' timestamp='2013-06-24T14:37:44Z' uid='158826' user='cquest' visible='true' version='3' changeset='16685288' lat='48.8681552' lon='2.3616588'>
@@ -2131,10 +2351,11 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='937868667' timestamp='2011-10-18T18:37:35Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='9587957' lat='48.8740544' lon='2.2931494'>
-    <tag k='name' v='Charles de Gaulle - Étoile' />
+  <node id='937868667' action='modify' timestamp='2011-10-18T18:37:35Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='9587957' lat='48.8740544' lon='2.2931494'>
+    <tag k='name' v='av. de Presbourg' />
+    <tag k='num' v='7' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='937969675' timestamp='2013-08-13T16:08:35Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='17333193' lat='48.8754454' lon='2.2892948'>
@@ -2215,9 +2436,9 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
   </node>
-  <node id='971476067' timestamp='2010-10-31T03:17:50Z' uid='210173' user='osmmaker' visible='true' version='1' changeset='6234815' lat='48.8760467' lon='2.3440653'>
-    <tag k='name' v='Cadet' />
+  <node id='971476067' action='modify' timestamp='2010-10-31T03:17:50Z' uid='210173' user='osmmaker' visible='true' version='1' changeset='6234815' lat='48.87602880650458' lon='2.3440086196552365'>
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CADET' />
   </node>
   <node id='975024505' timestamp='2013-05-25T15:45:22Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='16278208' lat='48.855408' lon='2.2701854'>
     <tag k='name' v='Ranelagh' />
@@ -2436,21 +2657,18 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1014002260' timestamp='2013-03-16T13:18:16Z' uid='152074' user='beweta' visible='true' version='5' changeset='15383773' lat='48.8662246' lon='2.3234453'>
-    <tag k='name' v='Concorde' />
-    <tag k='name:de' v='Eintracht' />
-    <tag k='name:es' v='Concordia' />
-    <tag k='name:it' v='Concorde' />
-    <tag k='name:pt' v='Concórdia' />
-    <tag k='name:ru' v='.......' />
+  <node id='1014002260' action='modify' timestamp='2013-03-16T13:18:16Z' uid='152074' user='beweta' visible='true' version='5' changeset='15383773' lat='48.8662246' lon='2.3234453'>
+    <tag k='lieu' v='Musée de l&apos;Orangerie' />
+    <tag k='name' v='place de la Concorde \n Galerie Nationale du Jeu de Paume' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='CONCORDE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1014002290' timestamp='2012-12-01T14:36:04Z' uid='158826' user='cquest' visible='true' version='4' changeset='14112362' lat='48.8772138' lon='2.3493034'>
-    <tag k='name' v='Sortie 3 rue du faubourg Poissonnière' />
+  <node id='1014002290' action='modify' timestamp='2012-12-01T14:36:04Z' uid='158826' user='cquest' visible='true' version='4' changeset='14112362' lat='48.8772138' lon='2.3493034'>
+    <tag k='name' v='r. du faubourg Poissonnière' />
     <tag k='railway' v='subway_entrance' />
     <tag k='ref' v='3' />
+    <tag k='station' v='POISSONNIERE' />
   </node>
   <node id='1014002295' timestamp='2013-07-08T19:18:54Z' uid='158826' user='cquest' visible='true' version='8' changeset='16878067' lat='48.8296959' lon='2.3779417'>
     <tag k='escalator_dir' v='up' />
@@ -2472,28 +2690,32 @@
     <tag k='tactile_paving' v='no' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1015020993' timestamp='2013-05-25T16:00:39Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='16278208' lat='48.8702394' lon='2.3709655'>
+  <node id='1015020993' action='modify' timestamp='2013-05-25T16:00:39Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='16278208' lat='48.8702394' lon='2.3709655'>
     <tag k='name' v='Hôpital Saint-Louis' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='1' />
+    <tag k='station' v='GONCOURT (HOPITAL SAINT-LOUIS)' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1015020998' timestamp='2013-05-25T16:00:45Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='16278208' lat='48.8701196' lon='2.3708471'>
+  <node id='1015020998' action='modify' timestamp='2013-05-25T16:00:45Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='16278208' lat='48.8701196' lon='2.3708471'>
     <tag k='name' v='r. du Fbg du Temple' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='2' />
+    <tag k='station' v='GONCOURT (HOPITAL SAINT-LOUIS)' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1015021001' timestamp='2013-05-25T16:00:51Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='16278208' lat='48.8698898' lon='2.3712227'>
+  <node id='1015021001' action='modify' timestamp='2013-05-25T16:00:51Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='16278208' lat='48.8698898' lon='2.3712227'>
     <tag k='name' v='r. des Goncourt' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='4' />
+    <tag k='station' v='GONCOURT (HOPITAL SAINT-LOUIS)' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1015021005' timestamp='2013-05-25T16:00:56Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='16278208' lat='48.869836' lon='2.3710561'>
+  <node id='1015021005' action='modify' timestamp='2013-05-25T16:00:56Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='16278208' lat='48.869836' lon='2.3710561'>
     <tag k='name' v='av. Parmentier' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='3' />
+    <tag k='station' v='GONCOURT (HOPITAL SAINT-LOUIS)' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1015358599' timestamp='2011-10-18T17:28:59Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8856352' lon='2.292726'>
@@ -2529,16 +2751,17 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1020265218' timestamp='2012-12-01T14:36:04Z' uid='158826' user='cquest' visible='true' version='2' changeset='14112362' lat='48.877351' lon='2.3491919'>
-    <tag k='name' v='Sortie 1 rue La Fayette' />
+  <node id='1020265218' action='modify' timestamp='2012-12-01T14:36:04Z' uid='158826' user='cquest' visible='true' version='2' changeset='14112362' lat='48.877351' lon='2.3491919'>
+    <tag k='name' v='r. La Fayette' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='1' />
+    <tag k='station' v='POISSONNIERE' />
   </node>
-  <node id='1020265235' timestamp='2012-12-01T14:36:04Z' uid='158826' user='cquest' visible='true' version='3' changeset='14112362' lat='48.8772545' lon='2.3494583'>
-    <tag k='FIXME' v='position_estimated' />
-    <tag k='name' v='Sortie 2 rue de Chabrol' />
+  <node id='1020265235' action='modify' timestamp='2012-12-01T14:36:04Z' uid='158826' user='cquest' visible='true' version='3' changeset='14112362' lat='48.8772545' lon='2.3494583'>
+    <tag k='name' v='r. de Chabrol' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='2' />
+    <tag k='station' v='POISSONNIERE' />
   </node>
   <node id='1022501824' timestamp='2010-12-05T11:49:02Z' uid='17286' user='Pieren' visible='true' version='1' changeset='6549557' lat='48.8384944' lon='2.2556294'>
     <tag k='name' v='Porte de Saint-Cloud' />
@@ -2584,7 +2807,7 @@
     <tag k='ref' v='2' />
   </node>
   <node id='1025182913' timestamp='2013-02-11T05:06:24Z' uid='210173' user='osmmaker' visible='true' version='4' changeset='14989914' lat='48.8467239' lon='2.4172005'>
-    <tag k='name' v='Saint-Mandé . Tourelle' />
+    <tag k='name' v='Saint-Mandé — Tourelle' />
     <tag k='railway' v='subway_entrance' />
   </node>
   <node id='1025365424' timestamp='2010-12-06T19:29:03Z' uid='17286' user='Pieren' visible='true' version='1' changeset='6567449' lat='48.8380087' lon='2.2579957'>
@@ -2694,41 +2917,42 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1113454819' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.8760479' lon='2.3576953'>
-    <tag k='name' v='Gare de L&apos;Est - sortie 8 boulevard de Magenta' />
+  <node id='1113454819' action='modify' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.8760479' lon='2.3576953'>
+    <tag k='name' v='bd de Magenta' />
+    <tag k='num' v='8' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DE L&apos;EST (VERDUN)' />
   </node>
-  <node id='1113454908' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.8759648' lon='2.3588647'>
-    <tag k='name' v='Gare de L&apos;Est - sortie 4 rue du Faubourg Saint-Martin' />
+  <node id='1113454908' action='modify' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.87594988872985' lon='2.358964457406784'>
+    <tag k='name' v='r. du Faubourg Saint-Martin' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DE L&apos;EST (VERDUN)' />
   </node>
-  <node id='1113455198' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.8759978' lon='2.3579925'>
-    <tag k='name' v='Gare de L&apos;Est - sortie 7 Terre-plein' />
+  <node id='1113455198' action='modify' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.8759978' lon='2.3579925'>
+    <tag k='name' v='Terre-plein' />
+    <tag k='num' v='7' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DE L&apos;EST (VERDUN)' />
   </node>
-  <node id='1113455495' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.8759698' lon='2.3583459'>
-    <tag k='name' v='Gare de L&apos;Est - sortie 6 boulevard de Strasbourg' />
+  <node id='1113455495' action='modify' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.8759698' lon='2.3583459'>
+    <tag k='name' v='bd de Strasbourg' />
+    <tag k='num' v='6' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DE L&apos;EST (VERDUN)' />
   </node>
-  <node id='1114193343' timestamp='2013-03-16T13:18:16Z' uid='152074' user='beweta' visible='true' version='4' changeset='15383773' lat='48.8662546' lon='2.32355'>
-    <tag k='name' v='Concorde' />
-    <tag k='name:de' v='Eintracht' />
-    <tag k='name:es' v='Concordia' />
-    <tag k='name:it' v='Concorde' />
-    <tag k='name:pt' v='Concórdia' />
-    <tag k='name:ru' v='.......' />
+  <node id='1114193343' action='modify' timestamp='2013-03-16T13:18:16Z' uid='152074' user='beweta' visible='true' version='4' changeset='15383773' lat='48.8662546' lon='2.32355'>
+    <tag k='lieu' v='Jardin des Tuileries' />
+    <tag k='name' v='rue de Rivoli' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='CONCORDE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1114193838' timestamp='2013-03-16T13:18:16Z' uid='152074' user='beweta' visible='true' version='4' changeset='15383773' lat='48.8653454' lon='2.3226649'>
-    <tag k='name' v='Concorde' />
-    <tag k='name:de' v='Eintracht' />
-    <tag k='name:es' v='Concordia' />
-    <tag k='name:it' v='Concorde' />
-    <tag k='name:pt' v='Concórdia' />
-    <tag k='name:ru' v='.......' />
+  <node id='1114193838' action='modify' timestamp='2013-03-16T13:18:16Z' uid='152074' user='beweta' visible='true' version='4' changeset='15383773' lat='48.8653454' lon='2.3226649'>
+    <tag k='lieu' v='Jardin des Tuileries-Musée de l&apos;Orangerie' />
+    <tag k='name' v='place de la Concorde' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CONCORDE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1114770276' timestamp='2013-10-17T18:23:14Z' uid='158826' user='cquest' visible='true' version='3' changeset='18407980' lat='48.8850207' lon='2.3796374'>
@@ -2790,10 +3014,11 @@
     <tag k='ref' v='3' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1133307634' timestamp='2012-11-07T04:09:06Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='13781205' lat='48.8587828' lon='2.3225219'>
-    <tag k='name' v='Solférino' />
-    <tag k='name:ru' v='..........' />
+  <node id='1133307634' action='modify' timestamp='2012-11-07T04:09:06Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='13781205' lat='48.8587828' lon='2.3225219'>
+    <tag k='name' v='pl. Jacques Bainville' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SOLFERINO' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1134402804' timestamp='2011-02-03T21:31:16Z' uid='17286' user='Pieren' visible='true' version='1' changeset='7178230' lat='48.846569' lon='2.3518352'>
@@ -2857,16 +3082,19 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='1181466521' timestamp='2011-10-19T18:14:22Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9596105' lat='48.8547173' lon='2.3059956'>
-    <tag k='name' v='École Militaire' />
+  <node id='1181466521' action='modify' timestamp='2011-10-19T18:14:22Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9596105' lat='48.854654646039485' lon='2.3059094458759595'>
+    <tag k='lieu' v='Tour Eiffel' />
+    <tag k='name' v='av. Bosquet' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='ECOLE MILITAIRE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1181466665' timestamp='2011-10-19T18:14:24Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9596105' lat='48.8546456' lon='2.3062823'>
-    <tag k='name' v='École Militaire' />
+  <node id='1181466665' action='modify' timestamp='2011-10-19T18:14:24Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9596105' lat='48.85459935535143' lon='2.306212016372493'>
+    <tag k='lieu' v='Hôtel des Invalides' />
+    <tag k='name' v='av. Duquesne' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='ECOLE MILITAIRE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1185590715' timestamp='2013-09-04T21:44:37Z' uid='1712217' user='mazootman' visible='true' version='2' changeset='17679075' lat='48.8389491' lon='2.3305734'>
@@ -2883,33 +3111,31 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
   </node>
-  <node id='1191523457' timestamp='2011-10-18T16:39:49Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8577685' lon='2.3102143'>
-    <tag k='name' v='La Tour Maubourg' />
+  <node id='1191523457' action='modify' timestamp='2011-10-18T16:39:49Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8577685' lon='2.3102143'>
+    <tag k='lieu' v='Les Invalides-Tombeau de l&apos;Empereur-Musée de l&apos;Armée' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='LA TOUR-MAUBOURG' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1191594423' timestamp='2012-11-06T22:26:50Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13776304' lat='48.8609213' lon='2.3144951'>
-    <tag k='name' v='Invalides' />
+  <node id='1191594423' action='modify' timestamp='2012-11-06T22:26:50Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13776304' lat='48.8609213' lon='2.3144951'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='INVALIDES' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1191738435' timestamp='2013-11-13T23:57:00Z' uid='158826' user='cquest' visible='true' version='2' changeset='18885952' lat='48.8625027' lon='2.3146838'>
+  <node id='1191738435' action='modify' timestamp='2013-11-13T23:57:00Z' uid='158826' user='cquest' visible='true' version='2' changeset='18885952' lat='48.8625027' lon='2.3146838'>
+    <tag k='name' v='Quai d&apos;Orsay' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey 2013' />
+    <tag k='station' v='INVALIDES' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1193281379' timestamp='2011-10-18T16:33:43Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8514081' lon='2.3142627'>
-    <tag k='name' v='Saint-François-Xavier' />
+  <node id='1193281379' action='modify' timestamp='2011-10-18T16:33:43Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8514081' lon='2.3142627'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='SAINT-FRANCOIS-XAVIER' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1193281828' timestamp='2012-11-07T04:09:06Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13781205' lat='48.8568351' lon='2.3152669'>
-    <tag k='name' v='Varenne' />
+  <node id='1193281828' action='modify' timestamp='2012-11-07T04:09:06Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13781205' lat='48.8568351' lon='2.3152669'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='VARENNE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1194021366' timestamp='2013-06-06T07:31:57Z' uid='158826' user='cquest' visible='true' version='7' changeset='16441473' lat='48.8050392' lon='2.4856204'>
@@ -2942,11 +3168,9 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1203827614' timestamp='2012-11-06T23:26:46Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13776304' lat='48.8557103' lon='2.3256228'>
-    <tag k='name' v='Rue du Bac' />
-    <tag k='name:ru' v='..-..-...' />
+  <node id='1203827614' action='modify' timestamp='2012-11-06T23:26:46Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13776304' lat='48.8557103' lon='2.3256228'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='RUE DU BAC' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1209893706' timestamp='2012-07-07T16:06:08Z' uid='158826' user='cquest' visible='true' version='3' changeset='12141388' lat='48.8695428' lon='2.3537015'>
@@ -2956,9 +3180,11 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1209893716' timestamp='2012-10-20T00:55:00Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13563119' lat='48.870268' lon='2.3504013'>
-    <tag k='name' v='Bonne Nouvelle' />
+  <node id='1209893716' action='modify' timestamp='2012-10-20T00:55:00Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13563119' lat='48.870268' lon='2.3504013'>
+    <tag k='name' v='r. d&apos;Hauteville' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='BONNE NOUVELLE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1209893717' timestamp='2012-07-07T16:06:08Z' uid='158826' user='cquest' visible='true' version='4' changeset='12141388' lat='48.8693466' lon='2.3545991'>
@@ -2975,14 +3201,17 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1209893720' timestamp='2012-01-14T21:04:05Z' uid='27454' user='Popolon' visible='true' version='3' changeset='10392459' lat='48.8709166' lon='2.3471132'>
-    <tag k='name' v='Bonne Nouvelle' />
+  <node id='1209893720' action='modify' timestamp='2012-01-14T21:04:05Z' uid='27454' user='Popolon' visible='true' version='3' changeset='10392459' lat='48.8709166' lon='2.3471132'>
+    <tag k='name' v='r. du Fbg Poissonnière' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='BONNE NOUVELLE' />
   </node>
-  <node id='1209893737' timestamp='2012-10-20T00:55:01Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13563119' lat='48.8702213' lon='2.3506211'>
-    <tag k='name' v='Bonne Nouvelle' />
+  <node id='1209893737' action='modify' timestamp='2012-10-20T00:55:01Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='13563119' lat='48.8702213' lon='2.3506211'>
+    <tag k='name' v='r. de Mazagran' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='BONNE NOUVELLE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1209893746' timestamp='2012-10-20T00:54:59Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='13563119' lat='48.8698964' lon='2.352111'>
@@ -3011,134 +3240,147 @@
   <node id='1224788605' timestamp='2011-05-25T20:24:38Z' uid='17286' user='Pieren' visible='true' version='2' changeset='8248420' lat='48.8514818' lon='2.3981838'>
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='1227287658' timestamp='2012-06-22T13:47:26Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8731435' lon='2.3330888'>
-    <tag k='name' v='Chaussée d&apos;Antin' />
+  <node id='1227287658' action='modify' timestamp='2012-06-22T13:47:26Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8731456088906' lon='2.333050324106103'>
+    <tag k='lieu' v='Galeries Lafayette' />
+    <tag k='name' v='Grands Magasins' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='CHAUSSEE D&apos;ANTIN (LA FAYETTE)' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287660' timestamp='2012-06-13T00:38:05Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11877991' lat='48.873555' lon='2.3293259'>
+  <node id='1227287660' action='delete' timestamp='2012-06-13T00:38:05Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11877991' lat='48.873555' lon='2.3293259'>
     <tag k='name' v='Auber' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287666' timestamp='2012-06-13T00:35:58Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8734925' lon='2.3285152'>
-    <tag k='name' v='Havre - Caumartin' />
+  <node id='1227287666' action='modify' timestamp='2012-06-13T00:35:58Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8734925' lon='2.3285152'>
+    <tag k='name' v='r. de Caumartin' />
+    <tag k='num' v='4' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='HAVRE-CAUMARTIN' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287673' timestamp='2012-06-13T00:38:05Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8733048' lon='2.3298778'>
+  <node id='1227287673' action='delete' timestamp='2012-06-13T00:38:05Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8733048' lon='2.3298778'>
     <tag k='name' v='Auber' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287677' timestamp='2012-06-22T13:47:25Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8730107' lon='2.3334515'>
+  <node id='1227287677' action='modify' timestamp='2012-06-22T13:47:25Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.87298117544367' lon='2.3336374668205013'>
+    <tag k='name' v='bd Haussmann' />
+    <tag k='num' v='4' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHAUSSEE D&apos;ANTIN (LA FAYETTE)' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1227287687' action='delete' timestamp='2012-06-22T13:47:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8730962' lon='2.3327653'>
     <tag k='name' v='Chaussée d&apos;Antin' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287687' timestamp='2012-06-22T13:47:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8730962' lon='2.3327653'>
-    <tag k='name' v='Chaussée d&apos;Antin' />
+  <node id='1227287692' action='modify' timestamp='2012-06-22T13:47:25Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8728007' lon='2.3336531'>
+    <tag k='name' v='r. de la Chaussée d&apos;Antin' />
+    <tag k='num' v='5' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='CHAUSSEE D&apos;ANTIN (LA FAYETTE)' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287692' timestamp='2012-06-22T13:47:25Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8728007' lon='2.3336531'>
-    <tag k='name' v='Chaussée d&apos;Antin' />
+  <node id='1227287694' action='modify' timestamp='2012-06-13T00:38:04Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11877991' lat='48.87353425324673' lon='2.3293934584774645'>
+    <tag k='lieu' v='Grands Magasins' />
+    <tag k='name' v='bd Haussmann' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='AUBER' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287694' timestamp='2012-06-13T00:38:04Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11877991' lat='48.8735216' lon='2.3295666'>
+  <node id='1227287697' action='modify' timestamp='2012-06-13T00:35:58Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8736519' lon='2.3285996'>
+    <tag k='lieu' v='Grands Magasins' />
+    <tag k='name' v='bd Haussmann' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='HAVRE-CAUMARTIN' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1227287698' action='modify' timestamp='2012-06-22T13:47:26Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8732022' lon='2.3333257'>
+    <tag k='name' v='r. La Fayette' />
+    <tag k='num' v='2' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHAUSSEE D&apos;ANTIN (LA FAYETTE)' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1227287700' action='delete' timestamp='2012-06-22T13:47:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8732639' lon='2.3301841'>
     <tag k='name' v='Auber' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287697' timestamp='2012-06-13T00:35:58Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8736519' lon='2.3285996'>
-    <tag k='name' v='Havre - Caumartin' />
+  <node id='1227287734' action='modify' timestamp='2012-06-22T13:47:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8729266' lon='2.3327083'>
+    <tag k='name' v='r. Halévy' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='CHAUSSEE D&apos;ANTIN (LA FAYETTE)' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287698' timestamp='2012-06-22T13:47:26Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8732022' lon='2.3333257'>
-    <tag k='name' v='Chaussée d&apos;Antin' />
+  <node id='1227307046' action='modify' timestamp='2013-06-14T13:46:27Z' uid='384920' user='zewan' visible='true' version='2' changeset='16550513' lat='48.8715603' lon='2.3306298'>
+    <tag k='name' v='r. Scribe' />
+    <tag k='num' v='3' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='OPERA' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287700' timestamp='2012-06-22T13:47:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8732639' lon='2.3301841'>
-    <tag k='name' v='Auber' />
+  <node id='1232685002' action='modify' timestamp='2012-06-22T13:45:22Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8721211' lon='2.3398043'>
+    <tag k='name' v='boulevard Haussmann \n côté des n° pairs \n rue Drouot' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='RICHELIEU-DROUOT' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227287734' timestamp='2012-06-22T13:47:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8729266' lon='2.3327083'>
-    <tag k='name' v='Chaussée d&apos;Antin' />
+  <node id='1232685026' action='modify' timestamp='2012-11-07T03:47:50Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13781205' lat='48.8719866' lon='2.3390784'>
+    <tag k='name' v='boulevard des italiens \n côté des n° pairs \n boulevard Haussmann \n côté des n°impairs' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='RICHELIEU-DROUOT' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1227307046' timestamp='2013-06-14T13:46:27Z' uid='384920' user='zewan' visible='true' version='2' changeset='16550513' lat='48.8715603' lon='2.3306298'>
-    <tag k='name' v='Opéra' />
+  <node id='1232685080' action='modify' timestamp='2012-06-22T13:46:23Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.87165760220068' lon='2.3375608570769955'>
+    <tag k='name' v='boulevard des italiens \n côté des n° pairs \n rue Laffitte' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='RICHELIEU-DROUOT' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1232685002' timestamp='2012-06-22T13:45:22Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8721211' lon='2.3398043'>
-    <tag k='name' v='Richelieu Drouot' />
+  <node id='1232685236' action='modify' timestamp='2012-06-22T13:46:23Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11975094' lat='48.8722213' lon='2.3390452'>
+    <tag k='name' v='boulevard Haussmann \n côté des n° pairs \n rue Chauchat' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='RICHELIEU-DROUOT' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1232685026' timestamp='2012-11-07T03:47:50Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13781205' lat='48.8719866' lon='2.3390784'>
-    <tag k='name' v='Richelieu Drouot' />
+  <node id='1232772979' action='modify' timestamp='2012-07-16T01:27:38Z' uid='133564' user='axx' visible='true' version='3' changeset='12238263' lat='48.8749912' lon='2.3401715'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='LE PELETIER' />
+  </node>
+  <node id='1233074235' action='modify' timestamp='2012-11-07T01:53:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13776304' lat='48.876634992378065' lon='2.3324365620530516'>
+    <tag k='name' v='r. Saint-Lazare' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='TRINITE-D&apos;ESTIENNE D&apos;ORVES' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1232685080' timestamp='2012-06-22T13:46:23Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11975094' lat='48.8718455' lon='2.3385675'>
-    <tag k='name' v='Richelieu Drouot' />
+  <node id='1233074242' action='modify' timestamp='2012-11-07T01:53:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13776304' lat='48.876462563762196' lon='2.3325113632449144'>
+    <tag k='name' v='r. Taitbout' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='station' v='TRINITE-D&apos;ESTIENNE D&apos;ORVES' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1232685236' timestamp='2012-06-22T13:46:23Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='11975094' lat='48.8722213' lon='2.3390452'>
-    <tag k='name' v='Richelieu Drouot' />
+  <node id='1233136733' action='modify' timestamp='2011-04-04T23:10:33Z' uid='17286' user='Pieren' visible='true' version='1' changeset='7770628' lat='48.8782598' lon='2.3374329'>
+    <tag k='name' v='r. Notre-Dame de Lorette' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-    <tag k='wheelchair' v='no' />
+    <tag k='station' v='SAINT-GEORGES' />
   </node>
-  <node id='1232772979' timestamp='2012-07-16T01:27:38Z' uid='133564' user='axx' visible='true' version='3' changeset='12238263' lat='48.8749912' lon='2.3401715'>
-    <tag k='name' v='Le Peletier' />
+  <node id='1233136751' action='modify' timestamp='2011-04-04T23:10:34Z' uid='17286' user='Pieren' visible='true' version='1' changeset='7770628' lat='48.8785056' lon='2.3378098'>
+    <tag k='name' v='pl. Saint-Georges' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey' />
-  </node>
-  <node id='1233074235' timestamp='2012-11-07T01:53:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13776304' lat='48.8765886' lon='2.3324558'>
-    <tag k='name' v='Trinité d&apos;Estienne d&apos;Orves' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='1233074242' timestamp='2012-11-07T01:53:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13776304' lat='48.8765195' lon='2.3324793'>
-    <tag k='name' v='Trinité d&apos;Estienne d&apos;Orves' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
-    <tag k='wheelchair' v='no' />
-  </node>
-  <node id='1233136733' timestamp='2011-04-04T23:10:33Z' uid='17286' user='Pieren' visible='true' version='1' changeset='7770628' lat='48.8782598' lon='2.3374329'>
-    <tag k='name' v='Saint-Georges' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
-  </node>
-  <node id='1233136751' timestamp='2011-04-04T23:10:34Z' uid='17286' user='Pieren' visible='true' version='1' changeset='7770628' lat='48.8785056' lon='2.3378098'>
-    <tag k='name' v='Saint-Georges' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='SAINT-GEORGES' />
   </node>
   <node id='1233985833' timestamp='2011-04-05T19:08:19Z' uid='17286' user='Pieren' visible='true' version='1' changeset='7778135' lat='48.8822568' lon='2.3380029'>
     <tag k='name' v='Pigalle' />
@@ -3151,16 +3393,18 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1236409744' timestamp='2012-05-01T21:07:11Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11466754' lat='48.8836421' lon='2.3491386'>
-    <tag k='name' v='Barbès - Rochechouart' />
+  <node id='1236409744' action='modify' timestamp='2012-05-01T21:07:11Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11466754' lat='48.8836421' lon='2.3491386'>
+    <tag k='name' v='bd de Magenta' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='BARBES-ROCHECHOUART' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1236571066' timestamp='2012-05-01T21:08:12Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11466754' lat='48.8837273' lon='2.3491147'>
-    <tag k='name' v='Barbès - Rochechouart' />
+  <node id='1236571066' action='modify' timestamp='2012-05-01T21:08:12Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11466754' lat='48.8837273' lon='2.3491147'>
+    <tag k='name' v='bd de Rochechouart' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='BARBES-ROCHECHOUART' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1240427562' timestamp='2011-10-19T01:13:40Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9596105' lat='48.8322346' lon='2.287287'>
@@ -3173,26 +3417,31 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1242438537' timestamp='2012-01-14T21:04:06Z' uid='27454' user='Popolon' visible='true' version='3' changeset='10392459' lat='48.8711728' lon='2.3455486'>
+  <node id='1242438537' action='modify' timestamp='2012-01-14T21:04:06Z' uid='27454' user='Popolon' visible='true' version='3' changeset='10392459' lat='48.871147492308836' lon='2.3457473921184664'>
+    <tag k='name' v='r. Rougemont' />
+    <tag k='num' v='6' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GRANDS BOULEVARDS' />
+  </node>
+  <node id='1242439878' action='delete' timestamp='2012-01-14T21:04:06Z' uid='27454' user='Popolon' visible='true' version='3' changeset='10392459' lat='48.8711238' lon='2.3458643'>
     <tag k='name' v='Grands Boulevards' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
   </node>
-  <node id='1242439878' timestamp='2012-01-14T21:04:06Z' uid='27454' user='Popolon' visible='true' version='3' changeset='10392459' lat='48.8711238' lon='2.3458643'>
-    <tag k='name' v='Grands Boulevards' />
+  <node id='1242504268' action='modify' timestamp='2012-07-11T20:01:20Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189654' lat='48.8716407' lon='2.3427609'>
+    <tag k='lieu' v='Musée Grévin' />
+    <tag k='name' v='bd Montmartre' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
-  </node>
-  <node id='1242504268' timestamp='2012-07-11T20:01:20Z' uid='158826' user='cquest' visible='true' version='2' changeset='12189654' lat='48.8716407' lon='2.3427609'>
-    <tag k='name' v='Grands Boulevards' />
-    <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='GRANDS BOULEVARDS' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1242504391' timestamp='2011-04-12T21:00:10Z' uid='17286' user='Pieren' visible='true' version='1' changeset='7846865' lat='48.8715001' lon='2.343591'>
-    <tag k='name' v='Grands Boulevards' />
+  <node id='1242504391' action='modify' timestamp='2011-04-12T21:00:10Z' uid='17286' user='Pieren' visible='true' version='1' changeset='7846865' lat='48.8715001' lon='2.343591'>
+    <tag k='name' v='r. du Fbg Montmartre' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='GRANDS BOULEVARDS' />
   </node>
   <node id='1244137481' timestamp='2011-04-14T07:57:00Z' uid='158826' user='cquest' visible='true' version='1' changeset='7858401' lat='48.8149089' lon='2.422292'>
     <tag k='railway' v='subway_entrance' />
@@ -3283,13 +3532,14 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1271509555' timestamp='2012-10-20T00:54:57Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.8725143' lon='2.3559051'>
-    <tag k='name' v='Château d&apos;Eau' />
+  <node id='1271509555' action='modify' timestamp='2012-10-20T00:54:57Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.87248582960993' lon='2.355885862053052'>
+    <tag k='name' v='r. du Château d&apos;Eau' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='CHATEAU D&apos;EAU' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1271509558' timestamp='2012-10-20T00:54:57Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.8724669' lon='2.3558796'>
+  <node id='1271509558' action='delete' timestamp='2012-10-20T00:54:57Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13563119' lat='48.8724669' lon='2.3558796'>
     <tag k='name' v='Château d&apos;Eau' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
@@ -3312,18 +3562,20 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1275005041' timestamp='2012-11-07T02:35:43Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13776304' lat='48.8813781' lon='2.3652954'>
-    <tag k='name' v='Louis Blanc' />
+  <node id='1275005041' action='modify' timestamp='2012-11-07T02:35:43Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='13776304' lat='48.8813781' lon='2.3652954'>
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='LOUIS BLANC' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1276904511' timestamp='2012-09-16T12:49:04Z' uid='83557' user='Esperanza36' visible='true' version='3' changeset='13130101' lat='48.879788' lon='2.4164732'>
     <tag k='name' v='Rue de Paris' />
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='1278464846' timestamp='2012-11-14T12:42:17Z' uid='4363' user='Pmz' visible='true' version='3' changeset='13870931' lat='48.8796502' lon='2.3561094'>
+  <node id='1278464846' action='modify' timestamp='2012-11-14T12:42:17Z' uid='4363' user='Pmz' visible='true' version='3' changeset='13870931' lat='48.8796502' lon='2.3561094'>
+    <tag k='name' v='r. de Saint-Quentin' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DU NORD' />
   </node>
   <node id='1279471593' timestamp='2013-03-17T18:31:35Z' uid='158826' user='cquest' visible='true' version='3' changeset='15399211' lat='48.8652089' lon='2.3985356'>
     <tag k='railway' v='subway_entrance' />
@@ -3337,10 +3589,12 @@
   <node id='1279471596' timestamp='2012-01-04T17:34:54Z' uid='27454' user='Popolon' visible='true' version='2' changeset='10293289' lat='48.8649627' lon='2.3989326'>
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='1279801131' timestamp='2011-05-10T22:24:21Z' uid='17286' user='Pieren' visible='true' version='1' changeset='8107512' lat='48.8708817' lon='2.3611313'>
-    <tag k='name' v='Jacques Bonsergent' />
+  <node id='1279801131' action='modify' timestamp='2011-05-10T22:24:21Z' uid='17286' user='Pieren' visible='true' version='1' changeset='8107512' lat='48.8708817' lon='2.3611313'>
+    <tag k='lieu' v='Hôpital Saint-Louis' />
+    <tag k='name' v='bd de Magenta' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
+    <tag k='station' v='JACQUES-BONSERGENT' />
   </node>
   <node id='1279836402' timestamp='2011-06-12T17:02:59Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='8416893' lat='48.8739589' lon='2.3859026'>
     <tag k='railway' v='subway_entrance' />
@@ -3356,7 +3610,7 @@
   <node id='1279836413' timestamp='2011-05-10T22:58:53Z' uid='83557' user='Esperanza36' visible='true' version='1' changeset='8107658' lat='48.8739933' lon='2.3851275'>
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='1280690315' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.875932' lon='2.3590599'>
+  <node id='1280690315' action='delete' timestamp='2013-10-09T12:29:46Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='18263756' lat='48.875932' lon='2.3590599'>
     <tag k='name' v='Gare de L&apos;Est - sortie 4 rue du Faubourg Saint-Martin' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
@@ -3568,8 +3822,11 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011' />
   </node>
-  <node id='1337999699' timestamp='2012-07-19T12:24:05Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12323993' lat='48.8517526' lon='2.3271152'>
+  <node id='1337999699' action='modify' timestamp='2012-07-19T12:24:05Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='12323993' lat='48.8517526' lon='2.3271152'>
+    <tag k='name' v='r. de Sèvres' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='SEVRES-BABYLONE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1351811584' timestamp='2013-08-13T16:17:42Z' uid='1424448' user='Singing-Poppy' visible='true' version='4' changeset='17333320' lat='48.853128' lon='2.3703945'>
@@ -3780,16 +4037,18 @@
     <tag k='source' v='survey' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1445881449' timestamp='2012-11-07T01:54:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='6' changeset='13776304' lat='48.8761766' lon='2.3366237'>
-    <tag k='name' v='Notre-Dame de Lorette' />
+  <node id='1445881449' action='modify' timestamp='2012-11-07T01:54:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='6' changeset='13776304' lat='48.8761766' lon='2.3366237'>
+    <tag k='name' v='r. de Châteaudun' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey' />
+    <tag k='station' v='NOTRE-DAME DE LORETTE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1445883728' timestamp='2012-11-07T01:54:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='13776304' lat='48.8762053' lon='2.3386026'>
-    <tag k='name' v='Notre-Dame de Lorette' />
+  <node id='1445883728' action='modify' timestamp='2012-11-07T01:54:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='13776304' lat='48.8762053' lon='2.3386026'>
+    <tag k='name' v='r. Bourdaloue' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey' />
+    <tag k='station' v='NOTRE-DAME DE LORETTE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1447463818' timestamp='2013-07-01T14:05:21Z' uid='1424448' user='Singing-Poppy' visible='true' version='3' changeset='16778382' lat='48.8342138' lon='2.4040333'>
@@ -3883,12 +4142,11 @@
     <tag k='name' v='Ledru-Rollin' />
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='1472147733' timestamp='2011-10-18T20:01:51Z' uid='210173' user='osmmaker' visible='true' version='2' changeset='9594618' lat='48.8703476' lon='2.3256093'>
-    <tag k='highway' v='elevator' />
-    <tag k='name' v='Madeleine' />
+  <node id='1472147733' action='modify' timestamp='2011-10-18T20:01:51Z' uid='210173' user='osmmaker' visible='true' version='2' changeset='9594618' lat='48.8703476' lon='2.3256093'>
+    <tag k='name' v='pl. de la Madeleine' />
+    <tag k='num' v='1' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='MAD ASC_00001' />
-    <tag k='source' v='survey' />
+    <tag k='station' v='MADELEINE' />
     <tag k='wheelchair' v='yes' />
   </node>
   <node id='1472155269' timestamp='2011-10-18T16:59:48Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8864849' lon='2.3006896'>
@@ -3907,10 +4165,11 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1472224814' timestamp='2011-10-18T18:37:34Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8745825' lon='2.293522'>
-    <tag k='name' v='Charles de Gaulle - Étoile' />
+  <node id='1472224814' action='modify' timestamp='2011-10-18T18:37:34Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='9587957' lat='48.8745825' lon='2.293522'>
+    <tag k='name' v='av. de la Grande Armée' />
+    <tag k='num' v='6' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1472376573' timestamp='2013-10-16T21:45:14Z' uid='524500' user='wheelmap_android' visible='true' version='3' changeset='18394238' lat='48.7794696' lon='2.2805245'>
@@ -3927,28 +4186,16 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1489806650' timestamp='2013-03-16T13:18:18Z' uid='152074' user='beweta' visible='true' version='4' changeset='15383773' lat='48.8610154' lon='2.3210652'>
-    <tag k='name' v='Assemblée Nationale' />
-    <tag k='name:de' v='Nationalversammlung' />
-    <tag k='name:en' v='National Assembly' />
-    <tag k='name:es' v='Asamblea Nacional' />
-    <tag k='name:it' v='Assemblea Nazionale' />
-    <tag k='name:pt' v='Assembleia Nacional' />
-    <tag k='name:ro' v='Adunarea Na.ional.' />
-    <tag k='name:ru' v='........-.........' />
+  <node id='1489806650' action='modify' timestamp='2013-03-16T13:18:18Z' uid='152074' user='beweta' visible='true' version='4' changeset='15383773' lat='48.8610154' lon='2.3210652'>
+    <tag k='name' v='bd Saint-Germain \n côté des n° pairs' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='ASSEMBLEE NATIONALE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1489806658' timestamp='2013-03-16T13:18:19Z' uid='152074' user='beweta' visible='true' version='4' changeset='15383773' lat='48.8612616' lon='2.3203769'>
+  <node id='1489806658' action='modify' timestamp='2013-03-16T13:18:19Z' uid='152074' user='beweta' visible='true' version='4' changeset='15383773' lat='48.8612616' lon='2.3203769'>
     <tag k='name' v='Assemblée Nationale' />
-    <tag k='name:de' v='Nationalversammlung' />
-    <tag k='name:en' v='National Assembly' />
-    <tag k='name:es' v='Asamblea Nacional' />
-    <tag k='name:it' v='Assemblea Nazionale' />
-    <tag k='name:pt' v='Assembleia Nacional' />
-    <tag k='name:ro' v='Adunarea Na.ional.' />
-    <tag k='name:ru' v='........-.........' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='ASSEMBLEE NATIONALE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1489806716' timestamp='2011-11-02T18:47:14Z' uid='210173' user='osmmaker' visible='true' version='1' changeset='9724575' lat='48.8343508' lon='2.4728433'>
@@ -3981,13 +4228,13 @@
   </node>
   <node id='1496303144' timestamp='2012-12-16T13:42:57Z' uid='623567' user='J-C Bubbendorf' visible='true' version='2' changeset='14293113' lat='48.896327' lon='2.281057'>
     <tag k='bicycle' v='no' />
-    <tag k='name' v='Pont de Levallois . Bécon' />
+    <tag k='name' v='Pont de Levallois – Bécon' />
     <tag k='note' v='Métropolitain parisien ; ligne 3.' />
     <tag k='railway' v='subway_entrance' />
   </node>
   <node id='1496303151' timestamp='2012-12-16T13:43:36Z' uid='623567' user='J-C Bubbendorf' visible='true' version='2' changeset='14293126' lat='48.897678' lon='2.27973'>
     <tag k='bicycle' v='no' />
-    <tag k='name' v='Pont de Levallois . Bécon' />
+    <tag k='name' v='Pont de Levallois – Bécon' />
     <tag k='note' v='Métropolitain parisien ; ligne 3.' />
     <tag k='railway' v='subway_entrance' />
   </node>
@@ -4080,7 +4327,7 @@
     <tag k='source' v='survey' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1512074304' timestamp='2012-06-13T00:39:07Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8735172' lon='2.3302487'>
+  <node id='1512074304' action='delete' timestamp='2012-06-13T00:39:07Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='11877991' lat='48.8735172' lon='2.3302487'>
     <tag k='name' v='Auber' />
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='survey' />
@@ -4113,7 +4360,7 @@
     <tag k='source' v='survey' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1549569023' timestamp='2013-09-22T11:20:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='17971841' lat='48.8756529' lon='2.3242278'>
+  <node id='1549569023' action='delete' timestamp='2013-09-22T11:20:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='2' changeset='17971841' lat='48.8756529' lon='2.3242278'>
     <tag k='elevator' v='yes' />
     <tag k='name' v='Saint-Lazare - sortie 1 cour de Rome' />
     <tag k='railway' v='subway_entrance' />
@@ -4307,7 +4554,7 @@
     <tag k='wheelchair' v='yes' />
   </node>
   <node id='1771426993' timestamp='2013-11-10T05:25:58Z' uid='1256648' user='Zigeuner' visible='true' version='2' changeset='18810445' lat='48.9066476' lon='2.4496002'>
-    <tag k='name' v='Bobigny - Pablo Picasso . Sortie 3 : r. Carnot' />
+    <tag k='name' v='Bobigny - Pablo Picasso — Sortie 3 : r. Carnot' />
     <tag k='railway' v='subway_entrance' />
   </node>
   <node id='1771427026' timestamp='2012-05-31T17:16:13Z' uid='130277' user='Teuxe' visible='true' version='2' changeset='11760214' lat='48.9068879' lon='2.4496012'>
@@ -4323,7 +4570,7 @@
     <tag k='railway' v='subway_entrance' />
   </node>
   <node id='1771632715' timestamp='2013-11-10T05:25:58Z' uid='1256648' user='Zigeuner' visible='true' version='2' changeset='18810445' lat='48.9059776' lon='2.449352'>
-    <tag k='name' v='Bobigny - Pablo Picasso . Sortie 4 : Préfecture - Centre commercial' />
+    <tag k='name' v='Bobigny - Pablo Picasso — Sortie 4 : Préfecture - Centre commercial' />
     <tag k='railway' v='subway_entrance' />
   </node>
   <node id='1773094370' timestamp='2012-08-16T09:06:42Z' uid='158826' user='cquest' visible='true' version='2' changeset='12748105' lat='48.8187635' lon='2.3600411'>
@@ -4432,9 +4679,11 @@
   <node id='1887862318' timestamp='2013-04-26T18:00:48Z' uid='83557' user='Esperanza36' visible='true' version='2' changeset='15875005' lat='48.7875398' lon='2.367962'>
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='1891141530' timestamp='2012-12-02T16:04:38Z' uid='158826' user='cquest' visible='true' version='3' changeset='14126683' lat='48.8724849' lon='2.356165'>
-    <tag k='name' v='Château d&apos;eau' />
+  <node id='1891141530' action='modify' timestamp='2012-12-02T16:04:38Z' uid='158826' user='cquest' visible='true' version='3' changeset='14126683' lat='48.8724849' lon='2.356165'>
+    <tag k='name' v='bd de Strasbourg' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='CHATEAU D&apos;EAU' />
   </node>
   <node id='1898413431' timestamp='2012-09-04T14:52:55Z' uid='83557' user='Esperanza36' visible='true' version='1' changeset='12982911' lat='48.7877144' lon='2.3676393'>
     <tag k='railway' v='subway_entrance' />
@@ -4494,10 +4743,11 @@
     <tag k='name' v='Robespierre' />
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='1962533364' timestamp='2012-10-28T08:16:54Z' uid='456113' user='eric_G' visible='true' version='2' changeset='13657917' lat='48.8753188' lon='2.2938433'>
-    <tag k='name' v='Charles de Gaulle - Étoile' />
+  <node id='1962533364' action='modify' timestamp='2012-10-28T08:16:54Z' uid='456113' user='eric_G' visible='true' version='2' changeset='13657917' lat='48.8753188' lon='2.2938433'>
+    <tag k='name' v='av. Carnot \n Parc Auto' />
+    <tag k='num' v='5' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012' />
+    <tag k='station' v='CHARLES DE GAULLE-ETOILE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1967772612' timestamp='2012-10-16T02:14:18Z' uid='210173' user='osmmaker' visible='true' version='1' changeset='13513505' lat='48.8162725' lon='2.3405126'>
@@ -4514,28 +4764,16 @@
     <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1986875859' timestamp='2013-03-16T13:18:17Z' uid='152074' user='beweta' visible='true' version='2' changeset='15383773' lat='48.8667336' lon='2.3225672'>
-    <tag k='name' v='Concorde' />
-    <tag k='name:de' v='Eintracht' />
-    <tag k='name:es' v='Concordia' />
-    <tag k='name:it' v='Concorde' />
-    <tag k='name:pt' v='Concórdia' />
-    <tag k='name:ru' v='.......' />
+  <node id='1986875859' action='modify' timestamp='2013-03-16T13:18:17Z' uid='152074' user='beweta' visible='true' version='2' changeset='15383773' lat='48.8667336' lon='2.3225672'>
+    <tag k='name' v='place de la Concorde \n rue Royale \n côté des n° pairs' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='CONCORDE' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='1986875861' timestamp='2013-03-16T13:18:17Z' uid='152074' user='beweta' visible='true' version='2' changeset='15383773' lat='48.8670025' lon='2.3217243'>
-    <tag k='name' v='Concorde' />
-    <tag k='name:de' v='Eintracht' />
-    <tag k='name:es' v='Concordia' />
-    <tag k='name:it' v='Concorde' />
-    <tag k='name:pt' v='Concórdia' />
-    <tag k='name:ru' v='.......' />
+  <node id='1986875861' action='modify' timestamp='2013-03-16T13:18:17Z' uid='152074' user='beweta' visible='true' version='2' changeset='15383773' lat='48.8670025' lon='2.3217243'>
+    <tag k='name' v='place de la Concorde \n rue Royale \n côté des n° impairs' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012' />
-    <tag k='station' v='subway_entrance' />
+    <tag k='station' v='CONCORDE' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='1987369013' timestamp='2012-10-28T18:20:39Z' uid='158826' user='cquest' visible='true' version='1' changeset='13665198' lat='48.8638128' lon='2.4085355'>
@@ -4822,9 +5060,10 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='ref' v='1' />
   </node>
-  <node id='2368647343' timestamp='2013-07-01T14:10:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='1' changeset='16778461' lat='48.8739605' lon='2.3157257'>
-    <tag k='name' v='Miromesnil - Sortie Rue de La Boétie côté des n° pairs' />
+  <node id='2368647343' action='modify' timestamp='2013-07-01T14:10:59Z' uid='1424448' user='Singing-Poppy' visible='true' version='1' changeset='16778461' lat='48.8739605' lon='2.3157257'>
+    <tag k='name' v='rue de La Boétie \n côté des n° pairs' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='MIROMESNIL' />
   </node>
   <node id='2370275772' timestamp='2013-07-17T09:31:16Z' uid='158826' user='cquest' visible='true' version='4' changeset='16984564' lat='48.7813276' lon='2.4095375'>
     <tag k='bicycle' v='no' />
@@ -4893,14 +5132,16 @@
     <tag k='tactile_paving' v='no' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='2394065723' timestamp='2013-07-23T15:31:06Z' uid='210173' user='osmmaker' visible='true' version='1' changeset='17063573' lat='48.862108' lon='2.3149148'>
+  <node id='2394065723' action='modify' timestamp='2013-07-23T15:31:06Z' uid='210173' user='osmmaker' visible='true' version='1' changeset='17063573' lat='48.862108' lon='2.3149148'>
+    <tag k='name' v='rue Esnault Pelterie \n Agence Air France' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey 2013' />
+    <tag k='station' v='INVALIDES' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='2411479930' timestamp='2013-08-08T21:02:05Z' uid='138059' user='Truchin' visible='true' version='1' changeset='17272194' lat='48.8630324' lon='2.3138962'>
+  <node id='2411479930' action='modify' timestamp='2013-08-08T21:02:05Z' uid='138059' user='Truchin' visible='true' version='1' changeset='17272194' lat='48.8630324' lon='2.3138962'>
+    <tag k='name' v='Pont Alexandre III' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='source' v='survey 2013' />
+    <tag k='station' v='INVALIDES' />
     <tag k='wheelchair' v='no' />
   </node>
   <node id='2413499336' timestamp='2013-08-27T21:39:18Z' uid='1198089' user='GeorgeKaplan' visible='true' version='2' changeset='17545363' lat='48.8063775' lon='2.4726407'>
@@ -4924,20 +5165,23 @@
     <tag k='name' v='Maisons-Alfort Stade - sortie avenue du général Leclerc côté n° pairs avenue Busteau' />
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='2467545174' timestamp='2013-09-22T11:06:18Z' uid='1424448' user='Singing-Poppy' visible='true' version='1' changeset='17971595' lat='48.8528569' lon='2.3352734'>
-    <tag k='name' v='Mabillon - sortie 2 rue du Four' />
+  <node id='2467545174' action='modify' timestamp='2013-09-22T11:06:18Z' uid='1424448' user='Singing-Poppy' visible='true' version='1' changeset='17971595' lat='48.8528569' lon='2.3352734'>
+    <tag k='name' v='r. du Four' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='2' />
+    <tag k='station' v='MABILLON' />
   </node>
-  <node id='2467558257' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='1' changeset='17971841' lat='48.875856' lon='2.3285462'>
-    <tag k='name' v='Saint-Lazare - sortie 11 rue Saint-Lazare' />
+  <node id='2467558257' action='modify' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='1' changeset='17971841' lat='48.875856' lon='2.3285462'>
+    <tag k='name' v='r. Saint-Lazare' />
+    <tag k='num' v='11' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='11' />
+    <tag k='station' v='SAINT-LAZARE' />
   </node>
-  <node id='2467558261' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='1' changeset='17971841' lat='48.8757604' lon='2.3288286'>
-    <tag k='name' v='Saint-Lazare - sortie 10 rue de Caumartin' />
+  <node id='2467558261' action='modify' timestamp='2013-09-22T11:20:58Z' uid='1424448' user='Singing-Poppy' visible='true' version='1' changeset='17971841' lat='48.8757604' lon='2.3288286'>
+    <tag k='name' v='r. de Caumartin' />
+    <tag k='num' v='10' />
     <tag k='railway' v='subway_entrance' />
-    <tag k='ref' v='10' />
+    <tag k='station' v='SAINT-LAZARE' />
   </node>
   <node id='2469445517' timestamp='2013-09-23T22:23:56Z' uid='210173' user='osmmaker' visible='true' version='1' changeset='18000311' lat='48.9339326' lon='2.0411438'>
     <tag k='bicycle' v='yes' />
@@ -4953,25 +5197,33 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='source' v='survey 2013-10-18;bing' />
   </node>
-  <node id='2506561045' timestamp='2013-10-23T22:51:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18511668' lat='48.8767351' lon='2.3582626'>
-    <tag k='name' v='Gare de l&apos;Est . Sortie 1 : rue d&apos;Alsace' />
+  <node id='2506561045' action='modify' timestamp='2013-10-23T22:51:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18511668' lat='48.8767351' lon='2.3582626'>
+    <tag k='name' v='r. d&apos;Alsace' />
+    <tag k='num' v='1' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DE L&apos;EST (VERDUN)' />
+  </node>
+  <node id='2506561046' action='modify' timestamp='2013-10-23T22:51:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18511668' lat='48.876394' lon='2.3596124'>
+    <tag k='name' v='pl. du 11 novembre 1918' />
+    <tag k='num' v='3' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DE L&apos;EST (VERDUN)' />
+  </node>
+  <node id='2506668787' action='delete' timestamp='2013-10-24T01:16:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18512586' lat='48.8767312' lon='2.3594818'>
+    <tag k='name' v='Gare de l&apos;Est — Sortie 2 : galerie marchande' />
     <tag k='railway' v='subway_entrance' />
   </node>
-  <node id='2506561046' timestamp='2013-10-23T22:51:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18511668' lat='48.876394' lon='2.3596124'>
-    <tag k='name' v='Gare de l&apos;Est . Sortie 3 : place du 11 novembre 1918' />
+  <node id='2506668788' action='modify' timestamp='2013-10-24T01:16:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18512586' lat='48.876780484743485' lon='2.359276677103245'>
+    <tag k='name' v='Galerie Marchande' />
+    <tag k='num' v='2' />
     <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DE L&apos;EST (VERDUN)' />
   </node>
-  <node id='2506668787' timestamp='2013-10-24T01:16:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18512586' lat='48.8767312' lon='2.3594818'>
-    <tag k='name' v='Gare de l&apos;Est . Sortie 2 : galerie marchande' />
+  <node id='2506668789' action='modify' timestamp='2013-10-24T01:16:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18512586' lat='48.8761787' lon='2.3589263'>
+    <tag k='name' v='r. du 8 mai 1945' />
+    <tag k='num' v='5' />
     <tag k='railway' v='subway_entrance' />
-  </node>
-  <node id='2506668788' timestamp='2013-10-24T01:16:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18512586' lat='48.8768282' lon='2.3590953'>
-    <tag k='name' v='Gare de l&apos;Est . Sortie 2 : galerie marchande' />
-    <tag k='railway' v='subway_entrance' />
-  </node>
-  <node id='2506668789' timestamp='2013-10-24T01:16:27Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18512586' lat='48.8761787' lon='2.3589263'>
-    <tag k='name' v='Gare de l&apos;Est . Sortie 5 : rue du 8 mai 1945' />
-    <tag k='railway' v='subway_entrance' />
+    <tag k='station' v='GARE DE L&apos;EST (VERDUN)' />
   </node>
   <node id='2513105998' timestamp='2013-10-29T18:17:43Z' uid='210173' user='osmmaker' visible='true' version='1' changeset='18605848' lat='49.1128652' lon='2.2876488'>
     <tag k='railway' v='subway_entrance' />
@@ -4993,7 +5245,7 @@
     <tag k='ref' v='2' />
   </node>
   <node id='2526083527' timestamp='2013-11-10T05:25:45Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18810445' lat='48.9068953' lon='2.4491151'>
-    <tag k='name' v='Bobigny - Pablo Picasso . Sortie 1 : Hôtel de ville - MC 93' />
+    <tag k='name' v='Bobigny - Pablo Picasso — Sortie 1 : Hôtel de ville - MC 93' />
     <tag k='railway' v='subway_entrance' />
   </node>
   <node id='2527916266' timestamp='2013-11-11T13:12:55Z' uid='1256648' user='Zigeuner' visible='true' version='1' changeset='18835299' lat='48.8356215' lon='2.3583523'>
@@ -5086,4 +5338,3 @@
     <tag k='railway' v='subway_entrance' />
   </node>
 </osm>
-
